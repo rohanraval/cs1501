@@ -2,7 +2,7 @@
 
 ## **Topic List**
 
-#### Introduction to Robotics
+#### Week 1-2: Introduction to Robotics
 - Types of Robots and Applications
     - Autonomous Vehicles and UGVs
         - Case Study: Uber ATG, Waymo, and Tesla... the race to level 5!
@@ -19,7 +19,7 @@
     - Role of Machine Learning, focusing on Perception and Prediction
     - Concepts of AI - optimization and constraints
 
-#### Mapping, Localization and Pose (MLP)
+#### Week 3-5: Mapping, Localization and Pose (MLP)
 - HD Maps and Map Building
     - Granularity - lane-level vs. road-level (e.g. Google Maps)
     - Geometry - splines, curve fitting, etc.
@@ -40,7 +40,7 @@
 - SLAM - a brief overview
 - If time permits.. Iterative Closest Point (ICP)... maybe?
 
-#### Motion Planning
+#### Week 6-8: Motion Planning
 - Intro to Graphs
 - Graph Search
     - Breadth-first Search (BFS)
@@ -55,18 +55,18 @@
 - __*Artificial Potential Fields*__
     - Gradient Descent and Local Minima
 
-#### Perception and Prediction
+#### Week 9: Perception and Prediction
 - Basic Visual Odometry and Computer Vision
 - Intution behind Deep Learning and Neural Networks
 - Lane Finding
 - Vehicle and Pedestrian Detection
 
-#### Robot Control
+#### Week 10: Robot Control
 - Feedback Control: Open vs Closed-loop
 - PID Control and Parameter Tuning
 - Very high-level conceptual overview of stability, controllability and observability
 
-#### Extra Topics
+#### Week 11-12: Extra Topics (choose 2)
 - Robot Kinematics and Dynamics
     - Forward and Inverse Kinematics
     - For the more mathematically inclined, ...
@@ -76,3 +76,4 @@
 - Swarm Robotics
     - Multi-agent systems
     - Rendezvous Problem
+- More options TBD
