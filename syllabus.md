@@ -1,11 +1,40 @@
 # **CS 1501 - Intro to Robotics: Autonomy, AI, and Applications**
 
+## **Course Description**
+Introduces the basic concepts of robotics, surveying autonomous robots, artificial intellegence in robotics, and other applications. Students will learn the fundamentals of this growing field, while emphasizing practical approaches and algorithms used in industry as well as academia. 
+
+Topics include: mapping, localization, motion planning and navigation, perception and prediction (including basic computer vision), robot control, and more.
+
+## **Instructors**
+**Student Instructor:** Rohan Raval
+* 4th year, BS Computer Science and Physics
+* Interests: Autonomous Vehicle Motion Planning
+* Contact: rohanraval@virginia.edu
+
+**Faculty Instructor:** Nicola Bezzo
+* Assistant Professor, ECE and Systems Engineering
+* Contact: ...
+
+## **Prerequisites** ##
+Familiarity with basic Computer Science, at the level of CS1110, and familiarity with Python, is _strongly_ advised.
+
+## **Course Structure** ##
+
+#### Overview
+This course will be a combination of traditional in-class lectures, and hands-on activities. There will be coding assignments, sometimes during class and sometimes outside of class, which can be completed in groups of 2. The goal of these coding assignments is to simulate the robotics algorithms and techniques being discussed in class in order to gain strong practical skills. 
+
+_As with any course, you will get out of it what you put into it!_ The idea behing this course is __not__ to teach you all the theory behind robotics... rather, I hope to instill an interest in robotics (possibly as a profession!), and give you a diving board from which you can explore more about this field.
+
+#### Grading Policy
+- Students must attend 9 out of 12 lectures to pass.
+- There will be one coding assignment per section (see below), and thus 6 coding assignments. Students must complete at least 5 out of the 6 assignments, and in all completed assignments, must obtain a grade of 75% or higher.
+
 ## **Topics and Schedule**
 
 #### Week 1-2: Introduction to Robotics
-- Types of Robots and Applications
+- Types of Robots
     - Autonomous Vehicles and UGVs
-        - Case Study: Uber ATG, Waymo, and Tesla... the race to level 5!
+        - Case Study: Uber ATG, Waymo, and Tesla... the race to autonomy!
     - Drones and UAVs
         - Case Study: Skydio
     - Industrial Robotics and Home Robotics
@@ -17,7 +46,7 @@
     - Autonomy Levels: L1-L5
 - Artificial Intelligence
     - Role of Machine Learning, focusing on Perception and Prediction
-    - Concepts of AI - optimization and constraints
+    - Core Concepts of AI - optimization and constraints
 
 #### Week 3-5: Mapping, Localization and Pose (MLP)
 - HD Maps and Map Building
@@ -30,57 +59,63 @@
     - Sensor Fusion
 - Pose
     - Concept of Localization and current challenges (highways, sensor inaccuracies, etc)
+    - ___Representing Pose - general idea___
+        - 6 DoF: {x,y,z, roll, pitch, yaw}
+        - Relative Poses and Transforms
     - For the more mathematically inclined, ...
         - Translation and Rotation
-        - Coordinate Transforms
-        - SE(2) and SO(3)
-        - Euler Angles and Quaternions
+        - 3D Pose and SO(3)
+        - Euler Angles
+        - Gimbal Lock and Quaternions
 - State Estimation: Kalman Filter as a way to illustrate Predict-Update cycle
-    - Brief discussion on Gaussian and Bayes Rule
-- __*Particle Filter*__
+    - Brief discussion on Gaussians and Bayes Rule
+- ___Particle Filter___
 - SLAM - a brief overview
-- If time permits.. Iterative Closest Point (ICP)... maybe?
+- If time permits.. Iterative Closest Point (ICP) Algorithm
 
-#### Week 6-8: Motion Planning
+#### Week 6-8: Motion Planning and Navigation
 - Intro to Graphs
 - Graph Search
     - Breadth-first Search (BFS)
     - Depth-first Search (DFS)
+    - Grassfire Algorithm
     - Dijkstra's Algorithm
     - ___A* Algorithm and Heuristics___
 - Navigation ~ Graph Search... some caveats
 - Obstacle Avoidance
-- Bug algorithm
+    - Bug algorithm
 - Probabilistic Road Maps (PRM)
 - Rapidly-exploring Random Trees (RRT)
-- __*Artificial Potential Fields*__
+- ___Artificial Potential Fields___
     - Gradient Descent and Local Minima
+- ___Real-world Motion Planning challenges___
+    - Occlusions, Speed Regressions, Unprotected Turns, etc
 
 #### Week 9: Perception and Prediction
-- Basic Visual Odometry and Computer Vision
 - Intution behind Deep Learning and Neural Networks
+- Basic Visual Odometry and Computer Vision
+- Image Segmentation
 - Lane Finding
 - Vehicle and Pedestrian Detection
 
 #### Week 10: Robot Control
 - Feedback Control: Open vs Closed-loop
-- PID Control and Parameter Tuning
+- ___PID Controller___
 - Very high-level conceptual overview of stability, controllability and observability
 
 #### Week 11-12: Extra Topics
 _This week can be used to cover some extra material, as desired by students, or for some buffer room in case of previous lectures running over, etc._
 - Robot Kinematics and Dynamics
-    - _This is math-heavy!_
+    - _Note: This is a very math-heavy topic!_
     - Forward and Inverse Kinematics
-    - For the more mathematically inclined, ...
-        - Euler-Lagrange Equation
+    - Equations of Motion
         - Lagrangian Formulation of Mechanics
-        - Netwon-Euler Equations
+        - Euler-Lagrange Equation, and derivation from Calculus of Variations
 - Swarm Robotics
-    - Multi-agent systems and challenges
+    - Challenges of Multi-Agent Systems
     - Rendezvous Problem
 - Ethics and Safety
-    - Designing for Safety
+    - Designing Software for Safety
     - Human-Robot interaction
     - Trolley Problem
     - Liability concerns
