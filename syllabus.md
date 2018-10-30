@@ -21,13 +21,13 @@ Basic Computer Science coursework (at the level of CS1110) and familiarity with 
 ## **Course Structure** ##
 
 #### Overview
-This course will be a combination of traditional in-class lectures, and hands-on activities. There will be coding assignments, sometimes during class and sometimes outside of class, which can be completed in groups of two. Each coding assignment is intended to take no more than 2 hours to complete. The goal of these coding assignments is to simulate the robotics algorithms and techniques being discussed in class in order to gain strong practical skills. 
+This course will be a combination of traditional in-class lectures, and hands-on activities. There will be coding assignments, sometimes during class and sometimes outside of class, which can be completed in groups of two. The goal of these coding assignments is to simulate the robotics algorithms and techniques being discussed in class in order to gain strong practical skills. 
 
 _As with any course, you will get out of it what you put into it!_ The idea behind this course is __not__ to teach you all the theory behind robotics... rather, I hope to instill an interest in robotics (possibly as a profession!), and give you a diving board from which you can explore more about this field.
 
 #### Grading Policy
 - Students must attend 9 out of 12 lectures to pass.
-- There will be one coding assignment per section (see below), and thus 6 coding assignments. Students must complete at least 5 out of the 6 assignments, and in all completed assignments, must obtain a grade of 75% or higher.
+- There will be one coding assignment per section (see below), and thus 6 coding assignments. Each coding assignment is intended to take no more than 2 hours to complete. Students must complete at least 5 out of the 6 assignments, and in all completed assignments, must obtain a grade of 75% or higher.
 
 ## **Topics and Schedule**
 
