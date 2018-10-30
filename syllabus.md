@@ -1,6 +1,6 @@
 # **CS 1501 - Intro to Robotics: Autonomy, AI, and Applications**
 
-## **Topic List**
+## **Topics and Schedule**
 
 #### Week 1-2: Introduction to Robotics
 - Types of Robots and Applications
@@ -32,6 +32,7 @@
     - Concept of Localization and current challenges (highways, sensor inaccuracies, etc)
     - For the more mathematically inclined, ...
         - Translation and Rotation
+        - Coordinate Transforms
         - SE(2) and SO(3)
         - Euler Angles and Quaternions
 - State Estimation: Kalman Filter as a way to illustrate Predict-Update cycle
@@ -66,14 +67,30 @@
 - PID Control and Parameter Tuning
 - Very high-level conceptual overview of stability, controllability and observability
 
-#### Week 11-12: Extra Topics (choose 2)
+#### Week 11-12: Extra Topics
+_This week can be used to cover some extra material, as desired by students, or for some buffer room in case of previous lectures running over, etc._
 - Robot Kinematics and Dynamics
+    - _This is math-heavy!_
     - Forward and Inverse Kinematics
     - For the more mathematically inclined, ...
         - Euler-Lagrange Equation
-        - Lagrangian Formulation
+        - Lagrangian Formulation of Mechanics
         - Netwon-Euler Equations
 - Swarm Robotics
-    - Multi-agent systems
+    - Multi-agent systems and challenges
     - Rendezvous Problem
+- Ethics and Safety
+    - Designing for Safety
+    - Human-Robot interaction
+    - Trolley Problem
+    - Liability concerns
+    - AI Governance
+    - Some Case Studies...
+- Autonomy Ecosystem
+    - Autonomy Businesses and Labs
+    - In-depth Survey of the Autonomous Vehicle industry - challenges, leaders, opportunities and risks, business models
+    - Discussion on the future of transportation, sharing economy, urban planning and energy systems as a result of autonomy
+- Connected Autonomous Vehicles
+    - V2V and V2I (V2X)
+    - Communication protocols and infrastructure
 - More options TBD
