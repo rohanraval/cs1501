@@ -11,19 +11,19 @@ Topics include: mapping, localization, motion planning and navigation, perceptio
 * Interests: Autonomous Vehicle Motion Planning
 * Contact: rohanraval@virginia.edu
 
-**Faculty Instructor:** Nicola Bezzo
+**Faculty Advisor:** Nicola Bezzo
 * Assistant Professor, ECE and Systems Engineering
-* Contact: ...
+* Contact: nbezzo@virginia.edu
 
 ## **Prerequisites** ##
-Familiarity with basic Computer Science, at the level of CS1110, and familiarity with Python, is _strongly_ advised.
+Basic Computer Science coursework (at the level of CS1110) and familiarity with Python, are ___strongly___ advised.
 
 ## **Course Structure** ##
 
 #### Overview
-This course will be a combination of traditional in-class lectures, and hands-on activities. There will be coding assignments, sometimes during class and sometimes outside of class, which can be completed in groups of 2. The goal of these coding assignments is to simulate the robotics algorithms and techniques being discussed in class in order to gain strong practical skills. 
+This course will be a combination of traditional in-class lectures, and hands-on activities. There will be coding assignments, sometimes during class and sometimes outside of class, which can be completed in groups of two. Each coding assignment is intended to take no more than 2 hours to complete. The goal of these coding assignments is to simulate the robotics algorithms and techniques being discussed in class in order to gain strong practical skills. 
 
-_As with any course, you will get out of it what you put into it!_ The idea behing this course is __not__ to teach you all the theory behind robotics... rather, I hope to instill an interest in robotics (possibly as a profession!), and give you a diving board from which you can explore more about this field.
+_As with any course, you will get out of it what you put into it!_ The idea behind this course is __not__ to teach you all the theory behind robotics... rather, I hope to instill an interest in robotics (possibly as a profession!), and give you a diving board from which you can explore more about this field.
 
 #### Grading Policy
 - Students must attend 9 out of 12 lectures to pass.
@@ -104,7 +104,7 @@ _As with any course, you will get out of it what you put into it!_ The idea behi
 - Very high-level conceptual overview of stability, controllability and observability
 
 #### Week 11-12: Extra Topics
-_This week can be used to cover some extra material, as desired by students, or for some buffer room in case of previous lectures running over, etc._
+_This week can be used to cover some extra material, chosen by students from the list below, or can be used as a buffer in case of previous lectures running over._
 - Robot Kinematics and Dynamics
     - _Note: This is a very math-heavy topic!_
     - Forward and Inverse Kinematics
