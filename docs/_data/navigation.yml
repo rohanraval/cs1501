@@ -3,8 +3,9 @@ main:
   #   url: /docs/quick-start-guide/
   - title: "Home"
     url: /
+  - title: "Schedule"
+    url: /schedule
   - title: "Resources"
     url: /resources
-  - title: "Resume"
   # - title: "External Link"
   #   url: https://google.com
