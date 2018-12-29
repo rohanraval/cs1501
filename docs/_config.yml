@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "contrast" #"default", "air", "aqua", "contrast", "da
 
 # Site Settings
 locale                   : "en-US"
-title                    : "CS 1501: Intro to Robotics, UVa Spring 2019"
-title_separator          : "-"
+title                    : "CS 1501: Intro to Robotics"
+title_separator          : "|"
 name                     : "Rohan Raval"
-description              : "Rohan Raval's personal website, portfolio and blog."
-url                      : "https://rohanraval.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : "UVa Spring 2019"
+url                      : "https://rohanraval.github.io/cs1501" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rohanraval/cs1501" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -102,7 +102,7 @@ analytics:
 author:
   name             : "Rohan Raval"
   avatar           : "/assets/images/square.jpg"
-  bio              : "Friendly neighborhood programmer"
+  bio              : "Now: CS @UVa, Next: Robotics @UberATG"
   location         : "University of Virginia"
   email            : "rohanraval@virginia.edu"
   uri              :

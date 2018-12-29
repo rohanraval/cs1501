@@ -3,9 +3,8 @@ main:
   #   url: /docs/quick-start-guide/
   - title: "Home"
     url: /
-  - title: "Blog"
-    url: https://medium.com/rohanraval
+  - title: "Resources"
+    url: /resources
   - title: "Resume"
-    url: /resume/
   # - title: "External Link"
   #   url: https://google.com

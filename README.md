@@ -27,7 +27,7 @@ None, although basic Computer Science coursework (at the level of CS1110) is rec
     - Lectures will be once a week, 50 mins each. I will try my best to make lectures discussion-based as much as possible to foster engagement.
 - Readings
     - There will be a list of short readings each week, from which students should pick one to write a small summary on. These readings will expand on concepts talked about in class that week or connect them with work being done in industry or academia.
-- As with any course, you will get out of it what you put into it! The idea behind this course is __not__ to teach you all the theory behind robotics... rather, my goal is to give you an sampling of concepts which you can use to explore more about the field, and in doing so, instill an interest in robotics (possibly as a profession!)
+- As with any course, you will get out of it what you put into it! The idea behind this course is __not__ to teach you all the theory behind robotics... rather, my goal is to present a sampling of concepts from which you can explore more about the field -- and in doing so, hopefully instill an interest in robotics (possibly as a profession!)
 
 #
 ## **Schedule of Topics**
