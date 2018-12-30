@@ -10,10 +10,12 @@ html {
 
 body {
   margin: 0;
-  padding: 0;
+  // padding: 0;
+  padding: 85px 0 0;  // new line // padding-top equal to masthead height or greater
   color: $text-color;
   font-family: $global-font-family;
   line-height: 1.5;
+
 
   &.overflow--hidden {
     /* when primary navigation is visible, the content in the background won't scroll */

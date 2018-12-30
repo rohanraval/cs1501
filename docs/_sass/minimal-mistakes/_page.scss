@@ -23,18 +23,18 @@
 .page {
   @include breakpoint($large) {
     float: right;
-    width: calc(100% - #{$right-sidebar-width-narrow});
-    padding-right: calc(#{$right-sidebar-width-narrow} * 0.3);
+    width: calc(100% - #{$right-sidebar-width-narrow} ); // calc(100% - #{$right-sidebar-width-narrow} - 3em);
+    padding-right: calc(#{$right-sidebar-width-narrow} - 4em);
     // float: right;
-    // width: calc(95%); // - #{$right-sidebar-width-narrow});
-    // padding-right: 0px; //$right-sidebar-width-narrow;
+    // width: calc(100% - #{$right-sidebar-width-narrow});
+    // padding-right: $right-sidebar-width-narrow;
   }
 
   @include breakpoint($x-large) {
     width: calc(100% - #{$right-sidebar-width});
-    padding-right: calc(#{$right-sidebar-width} * 0.3);
-    // width: calc(110% - #{$right-sidebar-width});
-    // padding-right: 0px;
+    padding-right: calc(#{$right-sidebar-width} - 4em);
+    // width: calc(100% - #{$right-sidebar-width});
+    // padding-right: $right-sidebar-width;
   }
 
   .page__inner-wrap {
