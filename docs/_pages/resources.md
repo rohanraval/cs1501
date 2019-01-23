@@ -4,7 +4,7 @@ permalink: "/resources"
 title:  "Resources"
 ---
 
-Below is a list of articles, books, videos, podcasts, and other resources relevant to the [topics](http://rohanraval.com/cs1501/schedule) covered in this course. It is a work-in-progress and is inteded to serve as a library of readings that students can learn from, contribute to, interact with, and, for the purposes of the class, choose to read from for their homeworks. _Please let me know if you come across a good resource that I've missed!_
+Below is a list of articles, books, videos, podcasts, and other resources relevant to the [topics](http://rohanraval.com/cs1501/schedule) covered in this course. It is a work-in-progress and is inteded to serve as a library of readings that students can learn from, contribute to, interact with, and, for the purposes of the class, choose to read from for their homeworks. _Please let me know if you come across a good resource so I can add it here!_
 
 ## Introductory
 - [Toward Robotic Cars][article_thrun_1] -- article by [Sebastian Thrun](https://en.wikipedia.org/wiki/Sebastian_Thrun)
@@ -22,6 +22,10 @@ Below is a list of articles, books, videos, podcasts, and other resources releva
 - [An Introduction to LIDAR: The Key Self-Driving Car Sensor][medium_cameron_1] -- Medium post by [Oliver Cameron](https://www.crunchbase.com/person/oliver-cameron)
 - [Where Self-Driving Cars Fall Short, and How We Can Make Them Safer][medium_kouri_1] -- Medium post by [Andrew Kouri](https://www.crunchbase.com/person/andrew-kouri)
 - [How a Kalman Filter works, in pictures][article_bzarg_1] -- blog post
+- [Robot Localization I: Recursive Bayesian Estimation][blog_deep_1] -- blog post
+- [Robot Localization II: The Histogram Filter][blog_deep_2] -- blog post
+- [Robot Localization III: The Kalman Filter][blog_deep_3] -- blog post
+- [Robot Localization IV: The Particle Filter][blog_deep_4] -- blog post
 
 ## Motion Planning
 
@@ -49,11 +53,10 @@ Below is a list of articles, books, videos, podcasts, and other resources releva
 #### Relevant Courses @UVA
 - __CS/ECE/SYS 6501: Autonomous Mobile Robots -- taught by Nicola Bezzo__
 - CS 4501: F1/10th Autonomous Driving -- taught by Madhur Behl
-- CS 6501: Software Engineering for Robotics -- taught by Sebastian Elbaum
 - CS 4710: Artificial Intelligence
 - CS 4501: Machine Learning
-- CS 4501: Computer Vision -- taught by Vicente Ordonez Roman
-- ECE 4501/6501: Control Theory and Robotic Systems
+- CS 4501/6501: Computer Vision (or some variant) -- taught by Vicente Ordonez Roman
+- CS 6501: Software Engineering for Robotics -- taught by Sebastian Elbaum (disclaimer: I have not taken this one!)
 
 #### Free Online Courses
 - [Artificial Intelligence for Robotics][course_ai_thrun] -- Udacity + Georgia Tech (taught by Sebastian Thrun)
@@ -70,6 +73,8 @@ Below is a list of articles, books, videos, podcasts, and other resources releva
 - [Modern Robotics: Mechanics, Planning, and Control][textbook_modern] -- Lynch, Park [[pdf][textbook_modern_pdf]]
 
 ## Career Resources
+- [Twitter][twitter_list]
+    - Twitter is a great place for learning about what's happening in industry. When they are not busy tweeting about politics, a lot of tech people also like to tweet opinions, analyses, announcements, and even have intellectual back-and-forths about develpments in the space. Not only is Twitter a great way to stay updated and immersed in the field, it is also a fantastic opportunity to _interact_ with the community and reach out to others in the space. Many of the people involved in projects (founders, developers, investors, media, enthusiasts, etc) have their DMs open and are receptive if you reach out (and they also sometimes tweet out ways you could get involved with their projects). I really cannot emphasize enough how undervalued Twitter is for professional development in tech. To that end I've curated the above Twitter List of relevant accounts to get you started!
 
 
 <!-- References -->
@@ -99,3 +104,8 @@ Below is a list of articles, books, videos, podcasts, and other resources releva
 [textbook_principles]: https://www.amazon.com/Principles-Robot-Motion-Implementations-Intelligent/dp/0262033275/ref=pd_lpo_sbs_14_t_2?_encoding=UTF8&psc=1&refRID=D1TQKWSN0Q0J3J49K62E
 [textbook_modern]: https://www.amazon.com/Modern-Robotics-Mechanics-Planning-Control/dp/1107156300/ref=olp_product_details?_encoding=UTF8&me=
 [textbook_modern_pdf]: http://hades.mech.northwestern.edu/images/2/2a/Park-lynch.pdf
+[blog_deep_1]: http://www.deepideas.net/robot-localization-recursive-bayesian-estimation/
+[blog_deep_2]: http://www.deepideas.net/robot-localization-histogram-filter/
+[blog_deep_3]: http://www.deepideas.net/robot-localization-kalman-filter/
+[blog_deep_4]: http://www.deepideas.net/robot-localization-particle-filter/
+[twitter_list]: https://twitter.com/rohanraval_real/lists/autonomy

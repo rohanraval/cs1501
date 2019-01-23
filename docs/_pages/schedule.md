@@ -12,6 +12,7 @@ title:  "Schedule"
         - Case Study: Skydio, DJI, Zipline International
     - Industrial Robotics and Home Robotics
         - Case Study: Roomba, Boston Dynamics
+- A Brief History of Autonomy
 - Core Concepts of Autonomy
     - Autonomy Levels
     - Autonomy Stack: Perception, Planning, and Control
@@ -20,7 +21,7 @@ title:  "Schedule"
     - What is AI? A (very) brief history
     - Role of Machine Learning, focusing on Perception and Prediction
 
-#### Week 3-4: Mapping, Localization and Pose (MLP)
+#### Week 2-4: Mapping and Localization
 - Sensors
     - LIDAR
     - Sensor Fusion
@@ -28,16 +29,18 @@ title:  "Schedule"
     - Occupancy Grid Representation
     - Challenges of mapping the real world
 - Pose
-    - Concept of Localization
+    - What is Localization?
     - Representation of Pose, and Degrees of Freedom
     - Challenges in getting accurate pose
-- State Estimation
-    - Predict-Update cycle, and concept of Kalman Filter
-- Particle Filter: key ideas and intuition
+- State Estimation Algorithms
+    - Recursive Bayes and Predict-Update cycle
+    - Histogram Filter
+    - Kalman Filter
+    - Particle Filter
 - SLAM (Simultaneous Localization and Mapping)
 - (if time) Iterative Closest Point (ICP) Algorithm
 
-#### Week 5-7: Motion Planning and Navigation
+#### Week 4-7: Motion Planning and Navigation
 - Intro to Graphs
 - Graph Search
     - Breadth-first Search (BFS)
@@ -46,7 +49,7 @@ title:  "Schedule"
     - Dijkstra's Algorithm
     - A* Algorithm and Heuristics
 - Navigation as a Graph Search problem
-- Obstacle Avoidance
+- Obstacle Avoidance and C-Space
 - Probabilistic Road Maps (PRM), briefly
 - Rapidly-exploring Random Trees (RRT), briefly
 - Artificial Potential Fields
@@ -65,8 +68,13 @@ title:  "Schedule"
 - Feedback: Open vs Closed-loop
 - PID Controller
 
-#### Week 11-12: TBD (based on student choice)
+#### Week 11-13: TBD (based on student choice)
 _These weeks can be used as a buffer or to cover some extra material, chosen by students from the list below._
+- Software Engineering for Robotics
+    - Intro to ROS
+    - Relevant Languages, Libraries, and Packages
+    - Simulators
+    - Intro to Matlab
 - Safety and Ethics
     - Designing Software for Safety
     - Human-Robot interaction
