@@ -7,20 +7,27 @@ title:  "Resources"
 Below is a list of articles, books, videos, podcasts, and other resources relevant to the [topics](http://rohanraval.com/cs1501/schedule) covered in this course. It is a work-in-progress and is inteded to serve as a library of readings that students can learn from, contribute to, interact with, and, for the purposes of the class, choose to read from for their homeworks. _Please let me know if you come across a good resource so I can add it here!_
 
 ## Introductory
-- [Toward Robotic Cars][article_thrun_1] -- article by [Sebastian Thrun](https://en.wikipedia.org/wiki/Sebastian_Thrun)
-- [Steps to Autonomy][blog_evans_1] -- blog post by [Benedict Evans](https://www.crunchbase.com/person/benedict-evans)
-- [A Beginner’s Guide to Self-Driving Cars][medium_sun_1] -- Medium post by Anyi Sun
+- [Toward Robotic Cars][article_thrun_1] -- article by [Sebastian Thrun][thrun]
+- [Steps to Autonomy][blog_evans_1] -- blog post by [Benedict Evans][ben_evans]
+- [A Beginner’s Guide to Self-Driving Cars][medium_x_1] -- Medium post
+- [Automated Vehicle Terminology][article_pave_1] -- article
+- [Everything about Self Driving Cars Explained for Non-Engineers][medium_x_3] -- Medium post
 
 ## Industry-related
+- [Let’s Talk About Self-Driving Cars][medium_x_4] -- Medium post
 - [The Top 263 Companies Racing Towards Autonomous Cars][wired_1] -- infographic
-- [Self-Driving Cars — Where Are We, Really?][podcast_a16z_1] -- a16z podcast interviewing Taggart Matthiesen (of [Lyft Level 5](https://www.lyft.com/self-driving-vehicles)), James Wu (of [DeepMap](https://www.deepmap.ai/)), and Qasar Younis (of [Applied Intuition](https://www.appliedintuition.com/))
-- [The Self-Flying Camera][podcast_a16z_2] -- a16z podcast interviewing Adam Bry of [Skydio](https://www.skydio.com/)
-- [On Aurora Island][podcast_autonocast_1] -- Autonocast podcast about [Aurora](https://aurora.tech/)
-- [Oliver Cameron of Voyage][podcast_autonocast_2] -- Autonocast podcast about [Voyage](https://voyage.auto/)
+- [How the Udacity Self-Driving Car Works][medium_silver_1] -- Medium post by [David Silver][silver]
+- [a16z: Self-Driving Cars — Where Are We, Really?][podcast_a16z_1] -- podcast interviewing Taggart Matthiesen (of [Lyft Level 5][lyft]), James Wu (of [DeepMap][deepmap]), and [Qasar Younis][qasar] (of [Applied Intuition][applied_intuition])
+- [a16z: The Self-Flying Camera][podcast_a16z_2] -- podcast interviewing [Adam Bry][bry] of [Skydio][skydio]
+- [Autonocast: On Aurora Island][podcast_autonocast_1] -- podcast about [Aurora][aurora]
+- [Autonocast: Oliver Cameron of Voyage][podcast_autonocast_2] -- podcast interviewing [Oliver Cameron][cameron] of [Voyage][voyage]
+- [Smarter Cars: Applied Intuition][podcast_smarter_1] -- podcast interviewing [Qasar Younis][qasar] and Matthew Colford of [Applied Intution][applied_intuition]
+- [Talks at Google: Lawrence Burns][video_burns_1] -- interview of [Lawrence Burns][burns], author of ["Autonomy"][book_autonomy]
 
 ## Mapping, Localization and State Estimation
-- [An Introduction to LIDAR: The Key Self-Driving Car Sensor][medium_cameron_1] -- Medium post by [Oliver Cameron](https://www.crunchbase.com/person/oliver-cameron)
-- [Where Self-Driving Cars Fall Short, and How We Can Make Them Safer][medium_kouri_1] -- Medium post by [Andrew Kouri](https://www.crunchbase.com/person/andrew-kouri)
+- [An Introduction to LIDAR: The Key Self-Driving Car Sensor][medium_cameron_1] -- Medium post by [Oliver Cameron][cameron]
+- [Where Self-Driving Cars Fall Short, and How We Can Make Them Safer][medium_kouri_1] -- Medium post by [Andrew Kouri][kouri]
+- [HD Maps for Self-Driving Cars][medium_x_2] -- Medium post
 - [How a Kalman Filter works, in pictures][article_bzarg_1] -- blog post
 - [Robot Localization I: Recursive Bayesian Estimation][blog_deep_1] -- blog post
 - [Robot Localization II: The Histogram Filter][blog_deep_2] -- blog post
@@ -32,31 +39,24 @@ Below is a list of articles, books, videos, podcasts, and other resources releva
 ## Motion Control
 - [End to End Learning for Self-Driving Cars][paper_nvidia_1] -- NVIDIA (paper)
 
-## Perception
+## Perception and Prediction
 
-## Prediction
-
-## Aerial Robotics (UAVs)
-
-## Robot Kinematics and Dynamics
-
-## Safety and Policy-making
-
-## Ethics
+## Ethics, Safety and Policy
 - [Why Ethics Matters for Autonomous Cars][article_lin_1] -- article by Patrick Lin
 
 ## Social Effects
 - [The Autonomy Ecosystem][blog_chen_1] -- series of 8 short videos by [Frank Chen](https://www.crunchbase.com/person/frank-chen)
+- [Mobility for Everyone: The Social and Economic Benefits of Autonomous Vehicles][medium_x_5] -- Medium post
 
 ## Educational Resources
 
 #### Relevant Courses @UVA
 - __CS/ECE/SYS 6501: Autonomous Mobile Robots -- taught by Nicola Bezzo__
-- CS 4501: F1/10th Autonomous Driving -- taught by Madhur Behl
+- CS 4501: F1/10th Autonomous Racing -- taught by Madhur Behl
 - CS 4710: Artificial Intelligence
 - CS 4501: Machine Learning
 - CS 4501/6501: Computer Vision (or some variant) -- taught by Vicente Ordonez Roman
-- CS 6501: Software Engineering for Robotics -- taught by Sebastian Elbaum (disclaimer: I have not taken this one!)
+- CS 6501: Software Engineering for Robotics -- taught by Sebastian Elbaum
 
 #### Free Online Courses
 - [Artificial Intelligence for Robotics][course_ai_thrun] -- Udacity + Georgia Tech (taught by Sebastian Thrun)
@@ -74,13 +74,30 @@ Below is a list of articles, books, videos, podcasts, and other resources releva
 
 ## Career Resources
 - [Twitter][twitter_list]
-    - Twitter is a great place for learning about what's happening in industry. When they are not busy tweeting about politics, a lot of tech people also like to tweet opinions, analyses, announcements, and even have intellectual back-and-forths about develpments in the space. Not only is Twitter a great way to stay updated and immersed in the field, it is also a fantastic opportunity to _interact_ with the community and reach out to others in the space. Many of the people involved in projects (founders, developers, investors, media, enthusiasts, etc) have their DMs open and are receptive if you reach out (and they also sometimes tweet out ways you could get involved with their projects). I really cannot emphasize enough how undervalued Twitter is for professional development in tech. To that end I've curated the above Twitter List of relevant accounts to get you started!
+    - Twitter is a great place for learning about what's happening in industry. When they are not busy tweeting about politics, a lot of tech people also like to tweet opinions, analyses, announcements, and even have intellectual debates about develpments in the space. Not only is Twitter a great way to stay updated and immersed in the field, it is also a fantastic opportunity to _interact_ with the community and reach out to others in the space. Many of the people involved in projects (founders, developers, investors, media, enthusiasts, etc) have their DMs open and are receptive if you reach out (and they also sometimes tweet out ways you could get involved with their projects). I really cannot emphasize enough how undervalued Twitter is for professional development in tech. To that end I've curated the above Twitter List of relevant accounts to get you started!
+- [How to Land an Autonomous Vehicle Job][article_silver_1] -- article
 
+<!-- Non-primary references -->
+[cameron]: https://www.crunchbase.com/person/oliver-cameron
+[thrun]: https://en.wikipedia.org/wiki/Sebastian_Thrun
+[ben_evans]: https://www.crunchbase.com/person/benedict-evans
+[burns]: https://en.wikipedia.org/wiki/Larry_Burns_(General_Motors)
+[book_autonomy]: https://www.amazon.com/Autonomy-Quest-Driverless-Car-Reshape/dp/0062661124
+[lyft]: https://www.lyft.com/self-driving-vehicles
+[deepmap]: https://www.deepmap.ai/
+[applied_intuition]: https://www.appliedintuition.com/
+[qasar]: https://www.crunchbase.com/person/qasar-younis
+[skydio]: https://www.skydio.com/
+[aurora]: https://aurora.tech/
+[voyage]: https://voyage.auto/
+[kouri]: https://www.crunchbase.com/person/andrew-kouri
+[bry]: https://www.crunchbase.com/person/adam-bry
+[silver]: https://medium.com/@dsilver829
 
-<!-- References -->
+<!-- Primary References -->
 [article_thrun_1]: http://proxy01.its.virginia.edu/login?url=https://dl.acm.org/citation.cfm?id=1721679
 [blog_evans_1]: https://www.ben-evans.com/benedictevans/2018/3/26/steps-to-autonomy
-[medium_sun_1]: https://medium.com/swlh/a-beginners-guide-to-self-driving-cars-5bbc2bb798d4
+[medium_x_1]: https://medium.com/swlh/a-beginners-guide-to-self-driving-cars-5bbc2bb798d4
 [blog_chen_1]: https://a16z.com/2018/02/03/autonomy-ecosystem-frank-chen-summit/
 [podcast_a16z_1]: https://a16z.com/2018/01/31/self-driving-cars-where-are-we/
 [podcast_a16z_2]: https://a16z.com/2018/02/22/autonomous-drone-flying-camera/
@@ -109,3 +126,12 @@ Below is a list of articles, books, videos, podcasts, and other resources releva
 [blog_deep_3]: http://www.deepideas.net/robot-localization-kalman-filter/
 [blog_deep_4]: http://www.deepideas.net/robot-localization-particle-filter/
 [twitter_list]: https://twitter.com/rohanraval_real/lists/autonomy
+[article_pave_1]: https://pavecampaign.org/automated-vehicle-terminology/
+[video_burns_1]: https://youtu.be/SJVKY1DtZ84
+[podcast_smarter_1]: https://medium.com/smart-cars-a-podcast-about-autonomous-vehicles/ep-16-applied-intuition-27fc4b8838ac
+[article_silver_1]: https://medium.com/self-driving-cars/how-to-land-an-autonomous-vehicle-job-ffb641570b01
+[medium_x_2]: https://medium.com/@surmenok/hd-maps-for-self-driving-cars-c41bc01e0d40
+[medium_x_3]: https://medium.com/swlh/everything-about-self-driving-cars-explained-for-non-engineers-f73997dcb60c
+[medium_x_4]: https://medium.com/swlh/lets-talk-about-self-driving-cars-387cd5adb834
+[medium_silver_1]: https://medium.com/udacity/how-the-udacity-self-driving-car-works-575365270a40
+[medium_x_5]: https://medium.com/smart-cars-a-podcast-about-autonomous-vehicles/balancing-mobility-equity-and-traffic-concerns-bbb8d682c1c5
