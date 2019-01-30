@@ -6,7 +6,7 @@ title:  "Resources"
 
 Below is a list of articles, books, videos, podcasts, and other resources relevant to the [topics](http://rohanraval.com/cs1501/schedule) covered in this course. It is a work-in-progress and is inteded to serve as a library of readings that students can learn from, contribute to, interact with, and, for the purposes of the class, choose to read from for their homeworks. _Please let me know if you come across a good resource so I can add it here!_
 
-## General/Introductory
+## Introductory
 - [Toward Robotic Cars][article_thrun_1] -- article by [Sebastian Thrun][thrun]
 - [Everything about Self Driving Cars Explained for Non-Engineers][medium_x_3] -- Medium post
 - [Chris Urmson: How a Driverless Car sees the Road][video_urmson_1] -- Ted Talk by [Chris Urmson][urmson]
