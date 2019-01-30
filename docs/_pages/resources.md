@@ -6,12 +6,18 @@ title:  "Resources"
 
 Below is a list of articles, books, videos, podcasts, and other resources relevant to the [topics](http://rohanraval.com/cs1501/schedule) covered in this course. It is a work-in-progress and is inteded to serve as a library of readings that students can learn from, contribute to, interact with, and, for the purposes of the class, choose to read from for their homeworks. _Please let me know if you come across a good resource so I can add it here!_
 
-## Introductory
+## General/Introductory
 - [Toward Robotic Cars][article_thrun_1] -- article by [Sebastian Thrun][thrun]
-- [Steps to Autonomy][blog_evans_1] -- blog post by [Benedict Evans][ben_evans]
-- [A Beginner’s Guide to Self-Driving Cars][medium_x_1] -- Medium post
-- [Automated Vehicle Terminology][article_pave_1] -- article
 - [Everything about Self Driving Cars Explained for Non-Engineers][medium_x_3] -- Medium post
+- [Chris Urmson: How a Driverless Car sees the Road][video_urmson_1] -- Ted Talk by [Chris Urmson][urmson]
+- [How Self-Driving Cars Work][medium_silver_3] -- Medium post (and Ted Talk) by [David Silver][silver]
+- [A Beginner’s Guide to Self-Driving Cars][medium_x_1] -- Medium post
+- [Sebastian Thrun: Google's Driverless Car][video_thrun_1] -- Ted Talk by [Sebastian Thrun][thrun]
+- [Vijay Kumar: Robots that Fly... and Cooperate][video_kumar_1] -- Ted Talk by [Vijay Kumar][kumar]
+- [Vijay Kumar: The Future of Flying Robots][video_kumar_2] -- Ted Talk by [Vijay Kumar][kumar]
+- [Marc Raibert: Meet Spot, the robot dog that can run, hop and open doors][video_raibert_1] -- Ted Talk by [Marc Raibert][raibert]
+- [Steps to Autonomy][blog_evans_1] -- blog post by [Benedict Evans][ben_evans]
+- [Automated Vehicle Terminology][article_pave_1] -- article
 
 ## Industry-related
 - [Let’s Talk About Self-Driving Cars][medium_x_4] -- Medium post
@@ -23,11 +29,14 @@ Below is a list of articles, books, videos, podcasts, and other resources releva
 - [Autonocast: Oliver Cameron of Voyage][podcast_autonocast_2] -- podcast interviewing [Oliver Cameron][cameron] of [Voyage][voyage]
 - [Smarter Cars: Applied Intuition][podcast_smarter_1] -- podcast interviewing [Qasar Younis][qasar] and Matthew Colford of [Applied Intution][applied_intuition]
 - [Talks at Google: Lawrence Burns][video_burns_1] -- interview of [Lawrence Burns][burns], author of ["Autonomy"][book_autonomy]
+- [Meet ALVINN, the self-driving car from 1989][article_verge_1] -- article
+
 
 ## Mapping, Localization and State Estimation
 - [An Introduction to LIDAR: The Key Self-Driving Car Sensor][medium_cameron_1] -- Medium post by [Oliver Cameron][cameron]
 - [Where Self-Driving Cars Fall Short, and How We Can Make Them Safer][medium_kouri_1] -- Medium post by [Andrew Kouri][kouri]
 - [HD Maps for Self-Driving Cars][medium_x_2] -- Medium post
+- [Rethinking Maps for Self-Driving][medium_lyft_1] -- Medium post by [Lyft Level 5's][lyft] Engineering team
 - [How a Kalman Filter works, in pictures][article_bzarg_1] -- blog post
 - [Robot Localization I: Recursive Bayesian Estimation][blog_deep_1] -- blog post
 - [Robot Localization II: The Histogram Filter][blog_deep_2] -- blog post
@@ -47,6 +56,7 @@ Below is a list of articles, books, videos, podcasts, and other resources releva
 ## Social Effects
 - [The Autonomy Ecosystem][blog_chen_1] -- series of 8 short videos by [Frank Chen](https://www.crunchbase.com/person/frank-chen)
 - [Mobility for Everyone: The Social and Economic Benefits of Autonomous Vehicles][medium_x_5] -- Medium post
+- [Autonomous Vehicles and the End of Privacy][medium_x_6] -- HackerNoon Medium post
 
 ## Educational Resources
 
@@ -75,7 +85,7 @@ Below is a list of articles, books, videos, podcasts, and other resources releva
 ## Career Resources
 - [Twitter][twitter_list]
     - Twitter is a great place for learning about what's happening in industry. When they are not busy tweeting about politics, a lot of tech people also like to tweet opinions, analyses, announcements, and even have intellectual debates about develpments in the space. Not only is Twitter a great way to stay updated and immersed in the field, it is also a fantastic opportunity to _interact_ with the community and reach out to others in the space. Many of the people involved in projects (founders, developers, investors, media, enthusiasts, etc) have their DMs open and are receptive if you reach out (and they also sometimes tweet out ways you could get involved with their projects). I really cannot emphasize enough how undervalued Twitter is for professional development in tech. To that end I've curated the above Twitter List of relevant accounts to get you started!
-- [How to Land an Autonomous Vehicle Job][article_silver_1] -- article
+- [How to Land an Autonomous Vehicle Job][medium_silver_2] -- Medium post by [David Silver][silver]
 
 <!-- Non-primary references -->
 [cameron]: https://www.crunchbase.com/person/oliver-cameron
@@ -93,6 +103,10 @@ Below is a list of articles, books, videos, podcasts, and other resources releva
 [kouri]: https://www.crunchbase.com/person/andrew-kouri
 [bry]: https://www.crunchbase.com/person/adam-bry
 [silver]: https://medium.com/@dsilver829
+[urmson]: https://en.wikipedia.org/wiki/Chris_Urmson
+[kumar]: https://en.wikipedia.org/wiki/Vijay_Kumar_(roboticist)
+[raibert]: https://en.wikipedia.org/wiki/Marc_Raibert
+
 
 <!-- Primary References -->
 [article_thrun_1]: http://proxy01.its.virginia.edu/login?url=https://dl.acm.org/citation.cfm?id=1721679
@@ -129,9 +143,18 @@ Below is a list of articles, books, videos, podcasts, and other resources releva
 [article_pave_1]: https://pavecampaign.org/automated-vehicle-terminology/
 [video_burns_1]: https://youtu.be/SJVKY1DtZ84
 [podcast_smarter_1]: https://medium.com/smart-cars-a-podcast-about-autonomous-vehicles/ep-16-applied-intuition-27fc4b8838ac
-[article_silver_1]: https://medium.com/self-driving-cars/how-to-land-an-autonomous-vehicle-job-ffb641570b01
+[medium_silver_2]: https://medium.com/self-driving-cars/how-to-land-an-autonomous-vehicle-job-ffb641570b01
 [medium_x_2]: https://medium.com/@surmenok/hd-maps-for-self-driving-cars-c41bc01e0d40
 [medium_x_3]: https://medium.com/swlh/everything-about-self-driving-cars-explained-for-non-engineers-f73997dcb60c
 [medium_x_4]: https://medium.com/swlh/lets-talk-about-self-driving-cars-387cd5adb834
 [medium_silver_1]: https://medium.com/udacity/how-the-udacity-self-driving-car-works-575365270a40
 [medium_x_5]: https://medium.com/smart-cars-a-podcast-about-autonomous-vehicles/balancing-mobility-equity-and-traffic-concerns-bbb8d682c1c5
+[article_verge_1]: https://www.theverge.com/2016/11/27/13752344/alvinn-self-driving-car-1989-cmu-navlab
+[medium_x_6]: https://hackernoon.com/autonomous-vehicles-and-the-end-of-privacy-9c3712f3494f
+[video_urmson_1]: https://www.youtube.com/watch?v=tiwVMrTLUWg
+[medium_lyft_1]: https://medium.com/@LyftLevel5/https-medium-com-lyftlevel5-rethinking-maps-for-self-driving-a147c24758d6
+[medium_silver_3]: https://medium.com/udacity/how-self-driving-cars-work-f77c49dca47e
+[video_thrun_1]: https://www.ted.com/talks/sebastian_thrun_google_s_driverless_car?language=en
+[video_kumar_1]: https://www.ted.com/talks/vijay_kumar_robots_that_fly_and_cooperate
+[video_raibert_1]: https://www.ted.com/talks/marc_raibert_meet_spot_the_robot_dog_that_can_run_hop_and_open_doors
+[video_kumar_2]: https://www.ted.com/talks/vijay_kumar_the_future_of_flying_robots

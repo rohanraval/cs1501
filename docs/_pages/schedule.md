@@ -4,22 +4,12 @@ permalink: "/schedule"
 title:  "Schedule"
 ---
 
-#### Week 1-2: Introduction to Robotics
+#### Week 1: Introduction to Robotics
+- What is a Robot?
 - Types of Robots
-    - Autonomous Vehicles and UGVs
-        - Case Study: Uber ATG, Waymo, Tesla... the "race to autonomy"
-    - Drones and UAVs
-        - Case Study: Skydio, DJI, Zipline International
-    - Industrial Robotics and Home Robotics
-        - Case Study: Roomba, Boston Dynamics
-- A Brief History of Autonomy
+- A Brief History of Robotics
 - Core Concepts of Autonomy
-    - Autonomy Levels
-    - Autonomy Stack: Perception, Planning, and Control
-    - Autonomy IRL: Research and Industry
-- Artificial Intelligence in Robotics
-    - What is AI? A (very) brief history
-    - Role of Machine Learning, focusing on Perception and Prediction
+    - See, Think, Act... AKA Perception, Planning, Control
 
 #### Week 2-4: Mapping and Localization
 - Sensors
@@ -96,3 +86,5 @@ _These weeks can be used as a buffer or to cover some extra material, chosen by 
     - V2V and V2I (V2X)
     - Communication protocols and infrastructure
 - More options TBD
+
+<!-- lectures -->
