@@ -4,7 +4,7 @@ permalink: "/schedule"
 title:  "Schedule"
 ---
 
-#### Week 1: Introduction to Robotics
+#### Week 1: Introduction to Robotics [[slides][lec1]]
 - What is a Robot?
 - Types of Robots
 - A Brief History of Robotics
@@ -88,3 +88,4 @@ _These weeks can be used as a buffer or to cover some extra material, chosen by 
 - More options TBD
 
 <!-- lectures -->
+[lec1]: https://github.com/rohanraval/cs1501/raw/master/lectures/1_intro.pdf
