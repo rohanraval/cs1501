@@ -15,20 +15,21 @@ Below is a list of articles, books, videos, podcasts, and other resources releva
 - [Sebastian Thrun: Google's Driverless Car][video_thrun_1] -- Ted Talk by [Sebastian Thrun][thrun]
 - [Vijay Kumar: Robots that Fly... and Cooperate][video_kumar_1] -- Ted Talk by [Vijay Kumar][kumar]
 - [Vijay Kumar: The Future of Flying Robots][video_kumar_2] -- Ted Talk by [Vijay Kumar][kumar]
-- [Marc Raibert: Meet Spot, the robot dog that can run, hop and open doors][video_raibert_1] -- Ted Talk by [Marc Raibert][raibert]
 - [Steps to Autonomy][blog_evans_1] -- blog post by [Benedict Evans][ben_evans]
 - [Automated Vehicle Terminology][article_pave_1] -- article
+- [Let’s Talk About Self-Driving Cars][medium_x_4] -- Medium post
 
 ## Industry-related
-- [Let’s Talk About Self-Driving Cars][medium_x_4] -- Medium post
-- [The Top 263 Companies Racing Towards Autonomous Cars][wired_1] -- infographic
 - [How the Udacity Self-Driving Car Works][medium_silver_1] -- Medium post by [David Silver][silver]
-- [a16z: Self-Driving Cars — Where Are We, Really?][podcast_a16z_1] -- podcast interviewing Taggart Matthiesen (of [Lyft Level 5][lyft]), James Wu (of [DeepMap][deepmap]), and [Qasar Younis][qasar] (of [Applied Intuition][applied_intuition])
-- [a16z: The Self-Flying Camera][podcast_a16z_2] -- podcast interviewing [Adam Bry][bry] of [Skydio][skydio]
+- [The Top 263 Companies Racing Towards Autonomous Cars][wired_1] -- infographic
+- [a16z: Self-Driving Cars — Where Are We, Really?][podcast_a16z_1] -- podcast interviewing Taggart Matthiesen (Director of [Lyft Level 5][lyft]), James Wu (CEO of [DeepMap][deepmap]), and [Qasar Younis][qasar] (CEO of [Applied Intuition][applied_intuition])
+- [a16z: The Self-Flying Camera][podcast_a16z_2] -- podcast interviewing [Adam Bry][bry] (CEO of [Skydio][skydio])
+- [Greylock Ventures: Safely Scaling Autonomous Vehicles][podcast_greymatter_1] -- podcast interviewing [Chris Urmson][urmson] (CEO of [Aurora][aurora]), [Reid Hoffman][hoffman] (Greylock Ventures Partner), and [Stefan Heck][heck] (CEO of [Nauto][nauto])
 - [Autonocast: On Aurora Island][podcast_autonocast_1] -- podcast about [Aurora][aurora]
-- [Autonocast: Oliver Cameron of Voyage][podcast_autonocast_2] -- podcast interviewing [Oliver Cameron][cameron] of [Voyage][voyage]
+- [Autonocast: Oliver Cameron of Voyage][podcast_autonocast_2] -- podcast interviewing [Oliver Cameron][cameron] (CEO of [Voyage][voyage])
 - [Smarter Cars: Applied Intuition][podcast_smarter_1] -- podcast interviewing [Qasar Younis][qasar] and Matthew Colford of [Applied Intution][applied_intuition]
-- [Talks at Google: Lawrence Burns][video_burns_1] -- interview of [Lawrence Burns][burns], author of ["Autonomy"][book_autonomy]
+- [Talks at Google: Lawrence Burns][video_burns_1] -- interview of [Lawrence Burns][burns] (author of ["Autonomy"][book_autonomy])
+- [Marc Raibert: Meet Spot, the robot dog that can run, hop and open doors][video_raibert_1] -- Ted Talk by [Marc Raibert][raibert] (CEO of [Boston Dynamics][boston])
 - [Meet ALVINN, the self-driving car from 1989][article_verge_1] -- article
 
 
@@ -106,6 +107,10 @@ Below is a list of articles, books, videos, podcasts, and other resources releva
 [urmson]: https://en.wikipedia.org/wiki/Chris_Urmson
 [kumar]: https://en.wikipedia.org/wiki/Vijay_Kumar_(roboticist)
 [raibert]: https://en.wikipedia.org/wiki/Marc_Raibert
+[hoffman]: https://en.wikipedia.org/wiki/Reid_Hoffman
+[nauto]: https://www.nauto.com/
+[heck]: https://www.crunchbase.com/person/stefan-heck
+[boston]: https://www.bostondynamics.com/
 
 
 <!-- Primary References -->
@@ -158,3 +163,4 @@ Below is a list of articles, books, videos, podcasts, and other resources releva
 [video_kumar_1]: https://www.ted.com/talks/vijay_kumar_robots_that_fly_and_cooperate
 [video_raibert_1]: https://www.ted.com/talks/marc_raibert_meet_spot_the_robot_dog_that_can_run_hop_and_open_doors
 [video_kumar_2]: https://www.ted.com/talks/vijay_kumar_the_future_of_flying_robots
+[podcast_greymatter_1]: https://soundcloud.com/greylock-partners/safely-scaling-autonomous-vehicles-greymatter
