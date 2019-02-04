@@ -33,7 +33,7 @@ Below is a list of articles, books, videos, podcasts, and other resources releva
 - [Meet ALVINN, the self-driving car from 1989][article_verge_1] -- article
 
 
-### Mapping, Localization and State Estimation
+### Sensors, Mapping, Localization and State Estimation
 - [An Introduction to LIDAR: The Key Self-Driving Car Sensor][medium_cameron_1] -- Medium post by [Oliver Cameron][cameron]
 - [Where Self-Driving Cars Fall Short, and How We Can Make Them Safer][medium_kouri_1] -- Medium post by [Andrew Kouri][kouri]
 - [HD Maps for Self-Driving Cars][medium_x_2] -- Medium post

@@ -11,10 +11,20 @@ title:  "Schedule"
 - Core Concepts of Autonomy
     - See, Think, Act... AKA Perception, Planning, Control
 
+#### Week 2: Sensors [[slides][lec2]]
+- Types of Sensors
+    - Exterocetive vs Propriocetpive
+    - Active vs Passive
+- Camera
+- LiDAR
+- Radar
+- Ultrasonic
+- GPS
+- IMU
+- Tradeoffs
+- Sensor Fusion
+
 #### Week 2-4: Mapping and Localization
-- Sensors
-    - LIDAR
-    - Sensor Fusion
 - HD Maps and Map Building
     - Occupancy Grid Representation
     - Challenges of mapping the real world
@@ -89,3 +99,4 @@ _These weeks can be used as a buffer or to cover some extra material, chosen by 
 
 <!-- lectures -->
 [lec1]: https://github.com/rohanraval/cs1501/raw/master/lectures/1_intro.pdf
+[lec2]: https://github.com/rohanraval/cs1501/raw/master/lectures/2_sensors.pdf
