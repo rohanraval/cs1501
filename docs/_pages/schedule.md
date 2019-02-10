@@ -13,8 +13,6 @@ title:  "Schedule"
 
 #### Week 2: Sensors [[slides][lec2]]
 - Types of Sensors
-    - Exterocetive vs Propriocetpive
-    - Active vs Passive
 - Camera
 - LiDAR
 - Radar
