@@ -7,37 +7,46 @@ title:  "Resources"
 Below is a list of articles, books, videos, podcasts, and other resources relevant to the [topics](http://rohanraval.com/cs1501/schedule) covered in this course. It is a work-in-progress and is inteded to serve as a library of readings that students can learn from, contribute to, interact with, and, for the purposes of the class, choose to read from for their homeworks. _Please let me know if you come across a good resource so I can add it here!_
 
 ### Introductory
-- [Toward Robotic Cars][article_thrun_1] -- article by [Sebastian Thrun][thrun]
-- [Everything about Self Driving Cars Explained for Non-Engineers][medium_x_3] -- Medium post
-- [Chris Urmson: How a Driverless Car sees the Road][video_urmson_1] -- Ted Talk by [Chris Urmson][urmson]
-- [How Self-Driving Cars Work][medium_silver_3] -- Medium post (and Ted Talk) by [David Silver][silver]
-- [A Beginner’s Guide to Self-Driving Cars][medium_x_1] -- Medium post
-- [Sebastian Thrun: Google's Driverless Car][video_thrun_1] -- Ted Talk by [Sebastian Thrun][thrun]
-- [Vijay Kumar: Robots that Fly... and Cooperate][video_kumar_1] -- Ted Talk by [Vijay Kumar][kumar]
-- [Vijay Kumar: The Future of Flying Robots][video_kumar_2] -- Ted Talk by [Vijay Kumar][kumar]
-- [Steps to Autonomy][blog_evans_1] -- blog post by [Benedict Evans][ben_evans]
-- [Automated Vehicle Terminology][article_pave_1] -- article
-- [Let’s Talk About Self-Driving Cars][medium_x_4] -- Medium post
+- [Toward Robotic Cars][article_thrun_1] -- article by [Sebastian Thrun][thrun] about leading the Stanford team to victory in the DARPA Grand Challenge
+- [Everything about Self Driving Cars Explained for Non-Engineers][medium_x_3] -- Medium post focusing on the intuition for neural nets and other AI tech used in autonomy
+- [Chris Urmson: How a Driverless Car sees the Road][video_urmson_1] -- Ted Talk by [Chris Urmson][urmson] (CEO of [Aurora][aurora] and ex-head of Google's self-driving car project)
+- [How Self-Driving Cars Work][medium_silver_3] -- Medium post (and Ted Talk) by [David Silver][silver], head of self-driving at [Udacity][udacity]
+- [A Beginner’s Guide to Self-Driving Cars][medium_x_1] -- beginner-friendly Medium post
+- [Sebastian Thrun: Google's Driverless Car][video_thrun_1] -- Ted Talk by [Sebastian Thrun][thrun] about his involvement in creating the Google self-diriving car project (now [Waymo][waymo])
+- [Vijay Kumar: Robots that Fly... and Cooperate][video_kumar_1] -- Ted Talk by [Vijay Kumar][kumar] (renowned UPenn professor researching autonomous drones) about swarming
+- [Vijay Kumar: The Future of Flying Robots][video_kumar_2] -- Ted Talk by [Vijay Kumar][kumar] about future directions of drone use and research
+- [Steps to Autonomy][blog_evans_1] -- blog post by [Benedict Evans][ben_evans] (venture capitalist at [a16z][a16z]) talking about the levels of autonomous vehicles and industry adoption.
+- [Automated Vehicle Terminology][article_pave_1] -- article introducing terminology
+- [Let’s Talk About Self-Driving Cars][medium_x_4] -- Medium post about general effects of autonomy in society
+- [The WIRED Guide to Self-Driving Cars][article_wired_1] -- article debriefing the self-driving car space for the layman
 
 ### Industry-related
-- [How the Udacity Self-Driving Car Works][medium_silver_1] -- Medium post by [David Silver][silver]
-- [The Top 263 Companies Racing Towards Autonomous Cars][wired_1] -- infographic
-- [a16z: Self-Driving Cars — Where Are We, Really?][podcast_a16z_1] -- podcast interviewing Taggart Matthiesen (Director of [Lyft Level 5][lyft]), James Wu (CEO of [DeepMap][deepmap]), and [Qasar Younis][qasar] (CEO of [Applied Intuition][applied_intuition])
-- [a16z: The Self-Flying Camera][podcast_a16z_2] -- podcast interviewing [Adam Bry][bry] (CEO of [Skydio][skydio])
-- [Greylock Ventures: Safely Scaling Autonomous Vehicles][podcast_greymatter_1] -- podcast interviewing [Chris Urmson][urmson] (CEO of [Aurora][aurora]), [Reid Hoffman][hoffman] (Greylock Ventures Partner), and [Stefan Heck][heck] (CEO of [Nauto][nauto])
-- [Autonocast: On Aurora Island][podcast_autonocast_1] -- podcast about [Aurora][aurora]
-- [Autonocast: Oliver Cameron of Voyage][podcast_autonocast_2] -- podcast interviewing [Oliver Cameron][cameron] (CEO of [Voyage][voyage])
-- [Smarter Cars: Applied Intuition][podcast_smarter_1] -- podcast interviewing [Qasar Younis][qasar] and Matthew Colford of [Applied Intution][applied_intuition]
-- [Talks at Google: Lawrence Burns][video_burns_1] -- interview of [Lawrence Burns][burns] (author of ["Autonomy"][book_autonomy])
+- [How the Udacity Self-Driving Car Works][medium_silver_1] -- Medium post by [David Silver][silver] (head of self-driving curriculum development at Udacity)
+- [The Top 263 Companies Racing Towards Autonomous Cars][wired_1] -- a cool infographic about how broad the space is.
+- [a16z: Self-Driving Cars — Where Are We, Really?][podcast_a16z_1] -- podcast interviewing Taggart Matthiesen (Director of [Lyft Level 5][lyft]), James Wu (CEO of [DeepMap][deepmap]), and [Qasar Younis][qasar] (CEO of [Applied Intuition][applied_intuition]). It's a progress report on the state-of-the-art in self-driving from some of the most influential people in the industry.
+- [a16z: The Self-Flying Camera][podcast_a16z_2] -- podcast interviewing [Adam Bry][bry] (CEO of [Skydio][skydio]). Skydio is a self-flying camera for professional and amateur videographers.
+- [Greylock Ventures: Safely Scaling Autonomous Vehicles][podcast_greymatter_1] -- podcast interviewing [Chris Urmson][urmson] (CEO of [Aurora][aurora]), [Reid Hoffman][hoffman] (Cofounder of LinkedIn), and [Stefan Heck][heck] (CEO of [Nauto][nauto]) about how to scale autonomy tech.
+- [Autonocast: On Aurora Island][podcast_autonocast_1] -- podcast about [Aurora][aurora]. Aurora is one of the most closely-watched companies in the space right now. They're still in stealth mode and led by a phenomenal [team][aurora_team].
+- [Autonocast: Oliver Cameron of Voyage][podcast_autonocast_2] -- podcast interviewing [Oliver Cameron][cameron] (CEO of [Voyage][voyage]). Voyage develops robotaxis for retirement communities in Florida.
+- [Smarter Cars: Applied Intuition][podcast_smarter_1] -- podcast interviewing [Qasar Younis][qasar] (CEO of [Applied Intution][applied_intuition]) about Simulation Software for Autonomous Cars
+- [MIT AI: Kyle Vogt, Cruise Automation][podcast_mit_1] -- podcast/video interviewing [Kyle Vogt][vogt] (CEO of [Cruise][cruise]). Kyle previously cofounded Twitch and participated in the DARPA Challenge. Cruise was recently acquired by GM.
+- [Talks at Google: Lawrence Burns][video_burns_1] -- interview of [Lawrence Burns][burns], author of ["Autonomy"][book_autonomy] and seasoned veteran in the auto industry, from GM to the DARPA Challenges to Waymo.
 - [Marc Raibert: Meet Spot, the robot dog that can run, hop and open doors][video_raibert_1] -- Ted Talk by [Marc Raibert][raibert] (CEO of [Boston Dynamics][boston])
-- [Meet ALVINN, the self-driving car from 1989][article_verge_1] -- article
+- [Meet ALVINN, the self-driving car from 1989][article_verge_1] -- article about the "first" self-driving car, back in the 80s at CMU.
 
-
-### Sensors, Mapping, Localization and State Estimation
+### Sensors
 - [An Introduction to LIDAR: The Key Self-Driving Car Sensor][medium_cameron_1] -- Medium post by [Oliver Cameron][cameron]
-- [Where Self-Driving Cars Fall Short, and How We Can Make Them Safer][medium_kouri_1] -- Medium post by [Andrew Kouri][kouri]
-- [HD Maps for Self-Driving Cars][medium_x_2] -- Medium post
+- [Why Experts Believe Cheaper, Better LiDAR is Right Around the Corner][article_lidar_1] -- technical article about the state-of-the-art for LiDAR and different types
+- [How 10 Leading Companies are Trying to Make Powerful, Low-Cost LiDAR][article_lidar_2] -- article overviewing the different industry approaches to LiDAR
+- [A New Doppler Lidar Solves Self-Driving Cars’ Need for Speed][article_dopplerlidar_1] -- article about a company that is developing a new type of LiDAR based on Frequency Modulation
+
+### Mapping
+- [Where Self-Driving Cars Fall Short, and How We Can Make Them Safer][medium_kouri_1] -- Medium post by [Andrew Kouri][kouri] (CEO of [lvl5.ai][lvl5ai])
+- [The Future of HD Mapping][podcast_kouri_1] -- podcast interviewing [Andrew Kouri][kouri] (CEO of [lvl5.ai][lvl5ai])
 - [Rethinking Maps for Self-Driving][medium_lyft_1] -- Medium post by [Lyft Level 5's][lyft] Engineering team
+- [HD Maps for Self-Driving Cars][medium_x_2] -- Medium post
+
+### Localization and State Estimation
 - [How a Kalman Filter works, in pictures][article_bzarg_1] -- blog post
 - [Robot Localization I: Recursive Bayesian Estimation][blog_deep_1] -- blog post
 - [Robot Localization II: The Histogram Filter][blog_deep_2] -- blog post
@@ -62,27 +71,27 @@ Below is a list of articles, books, videos, podcasts, and other resources releva
 
 ### Educational Resources
 
-#### Relevant Courses @UVA
-- __CS/ECE/SYS 6501: Autonomous Mobile Robots -- taught by Nicola Bezzo__
-- CS 4501: F1/10th Autonomous Racing -- taught by Madhur Behl
-- CS 4710: Artificial Intelligence
-- CS 4501: Machine Learning
-- CS 4501/6501: Computer Vision (or some variant) -- taught by Vicente Ordonez Roman
-- CS 6501: Software Engineering for Robotics -- taught by Sebastian Elbaum
+- Relevant Courses at UVA
+    - CS/ECE/SYS 6501: Autonomous Mobile Robots -- taught by Nicola Bezzo
+    - CS 4501: F1/10th Autonomous Racing -- taught by Madhur Behl
+    - CS 4710: Artificial Intelligence
+    - CS 4501: Machine Learning
+    - CS 4501/6501: Computer Vision (or some variant) -- taught by Vicente Ordonez Roman
+    - CS 6501: Software Engineering for Robotics -- taught by Sebastian Elbaum
 
-#### Free Online Courses
-- [Artificial Intelligence for Robotics][course_ai_thrun] -- Udacity + Georgia Tech (taught by Sebastian Thrun)
-- [Autonomous Mobile Robots][course_amr_siegwart] -- edX + ETH-Zurich (taught by Roland Siegwart)
-- [Control of Mobile Robots][course_control] -- Coursera + Georgia Tech (taught by Magnus Egerstedt)
-- [Robotics: Aerial Robotics][course_upenn_aerial] -- Coursera + UPenn (taught by Vijay Kumar)
-- [Robotics: Computational Motion Planning][course_upenn_mp] -- Coursera + UPenn
-- [Robotics: Perception][course_upenn_perception] -- Coursera + UPenn
-- [Robotics: Estimation and Learning][course_upenn_est] -- Coursera + UPenn
+- Free Online Courses
+    - [Artificial Intelligence for Robotics][course_ai_thrun] -- Udacity + Georgia Tech (taught by Sebastian Thrun)
+    - [Autonomous Mobile Robots][course_amr_siegwart] -- edX + ETH-Zurich (taught by Roland Siegwart)
+    - [Control of Mobile Robots][course_control] -- Coursera + Georgia Tech (taught by Magnus Egerstedt)
+    - [Robotics: Aerial Robotics][course_upenn_aerial] -- Coursera + UPenn (taught by Vijay Kumar)
+    - [Robotics: Computational Motion Planning][course_upenn_mp] -- Coursera + UPenn
+    - [Robotics: Perception][course_upenn_perception] -- Coursera + UPenn
+    - [Robotics: Estimation and Learning][course_upenn_est] -- Coursera + UPenn
 
-#### Textbooks
-- [Autonomous Mobile Robots][textbook_amr] -- Siegwart, Nourbakhsh, Scaramuzza [[pdf][textbook_amr_pdf]]
-- [Principles of Robot Motion: Theory, Algorithms, and Implementations][textbook_principles] -- Thrun, Choset, Lynch, et al.
-- [Modern Robotics: Mechanics, Planning, and Control][textbook_modern] -- Lynch, Park [[pdf][textbook_modern_pdf]]
+- Textbooks
+    - [Autonomous Mobile Robots][textbook_amr] -- Siegwart, Nourbakhsh, Scaramuzza [[pdf][textbook_amr_pdf]]
+    - [Principles of Robot Motion: Theory, Algorithms, and Implementations][textbook_principles] -- Thrun, Choset, Lynch, et al.
+    - [Modern Robotics: Mechanics, Planning, and Control][textbook_modern] -- Lynch, Park [[pdf][textbook_modern_pdf]]
 
 ### Career Resources
 - [Twitter][twitter_list]
@@ -101,6 +110,7 @@ Below is a list of articles, books, videos, podcasts, and other resources releva
 [qasar]: https://www.crunchbase.com/person/qasar-younis
 [skydio]: https://www.skydio.com/
 [aurora]: https://aurora.tech/
+[aurora_team]: http://fortune.com/2017/04/28/aurora-innovation-startup/
 [voyage]: https://voyage.auto/
 [kouri]: https://www.crunchbase.com/person/andrew-kouri
 [bry]: https://www.crunchbase.com/person/adam-bry
@@ -113,6 +123,12 @@ Below is a list of articles, books, videos, podcasts, and other resources releva
 [heck]: https://www.crunchbase.com/person/stefan-heck
 [boston]: https://www.bostondynamics.com/
 [dandrea]: https://en.wikipedia.org/wiki/Raffaello_D%27Andrea
+[vogt]: https://en.wikipedia.org/wiki/Kyle_Vogt
+[cruise]: https://en.wikipedia.org/wiki/Cruise_Automation
+[a16z]: https://en.wikipedia.org/wiki/Andreessen_Horowitz
+[udacity]: https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013
+[waymo]: https://en.wikipedia.org/wiki/Waymo
+[lvl5ai]: https://lvl5.ai/
 
 
 <!-- Primary References -->
@@ -167,3 +183,9 @@ Below is a list of articles, books, videos, podcasts, and other resources releva
 [video_kumar_2]: https://www.ted.com/talks/vijay_kumar_the_future_of_flying_robots
 [podcast_greymatter_1]: https://soundcloud.com/greylock-partners/safely-scaling-autonomous-vehicles-greymatter
 [video_dandrea_1]: https://www.ted.com/talks/raffaello_d_andrea_the_astounding_athletic_power_of_quadcopters?language=en
+[podcast_mit_1]: https://lexfridman.com/kyle-vogt/
+[article_lidar_1]: https://arstechnica.com/cars/2018/01/driving-around-without-a-driver-lidar-technology-explained/
+[article_lidar_2]: https://arstechnica.com/cars/2019/02/the-ars-technica-guide-to-the-lidar-industry/
+[article_dopplerlidar_1]: https://www.wired.com/story/blackmore-doppler-lidar-self-driving-cars/
+[article_wired_1]: https://www.wired.com/story/guide-self-driving-cars/
+[podcast_kouri_1]: https://player.fm/series/nextmobility/episode-4-the-future-of-hd-mapping-lvl5-ceo-andrew-kouri

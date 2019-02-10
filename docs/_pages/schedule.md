@@ -24,7 +24,7 @@ title:  "Schedule"
 - Tradeoffs
 - Sensor Fusion
 
-#### Week 2-4: Mapping and Localization
+#### Week 3-4: Mapping and Localization
 - HD Maps and Map Building
     - Occupancy Grid Representation
     - Challenges of mapping the real world
@@ -40,7 +40,7 @@ title:  "Schedule"
 - SLAM (Simultaneous Localization and Mapping)
 - (if time) Iterative Closest Point (ICP) Algorithm
 
-#### Week 4-7: Motion Planning and Navigation
+#### Week 5-7: Motion Planning and Navigation
 - Intro to Graphs
 - Graph Search
     - Breadth-first Search (BFS)
