@@ -48,7 +48,7 @@ Below is a list of articles, books, videos, podcasts, and other resources releva
 - [Vijay Kumar: Robots that Fly... and Cooperate][video_kumar_1] -- Ted Talk by [Vijay Kumar][kumar] (renowned UPenn professor researching autonomous drones) about swarming
 - [Vijay Kumar: The Future of Flying Robots][video_kumar_2] -- Ted Talk by [Vijay Kumar][kumar] about future directions of drone use and research
 - [Engineering a New Mission for Drones][ted_zipline_1] -- Ted Talk by Keenan Wyrobek (CTO of [Zipline][zipline]). Zipline works on autonomous plane delivery for emergency healthcare supplies in developing countries.
-- [How We're Using Drones to Deliver Blood and Save Lives][ted_zipline_2] -- Ted Talk by [Keller Rinaudo][rinaudo] (CEO of [Zipline][zipline])
+- [How We're Using Drones to Deliver Blood and Save Lives][ted_zipline_2] -- Ted Talk by [Keller Rinaudo][rinaudo] (CEO of [Zipline][zipline]). Zipline works on autonomous plane delivery for emergency healthcare supplies in developing countries.
 - [a16z: The Self-Flying Camera][podcast_a16z_2] -- podcast interviewing [Adam Bry][bry] (CEO of [Skydio][skydio]). Skydio is a self-flying camera for professional and amateur videographers.
 
 #### General-purpose and Humanoid Robots
@@ -68,9 +68,9 @@ Below is a list of articles, books, videos, podcasts, and other resources releva
 
 #### Mapping
 
-- [Where Self-Driving Cars Fall Short, and How We Can Make Them Safer][medium_kouri_1] -- Medium post by [Andrew Kouri][kouri] (CEO of [lvl5.ai][lvl5ai])
-- [The Future of HD Mapping][podcast_kouri_1] -- podcast interviewing [Andrew Kouri][kouri] (CEO of [lvl5.ai][lvl5ai])
-- [Rethinking Maps for Self-Driving][medium_lyft_1] -- Medium post by [Lyft Level 5's][lyft] Engineering team
+- [Where Self-Driving Cars Fall Short, and How We Can Make Them Safer][medium_kouri_1] -- Medium post by [Andrew Kouri][kouri] (CEO of lvl5.ai). lvl5 leverages crowdsourcing to create and sell HD Maps.
+- [The Future of HD Mapping][podcast_kouri_1] -- podcast interviewing [Andrew Kouri][kouri] (CEO of [lvl5.ai][lvl5ai]). lvl5 leverages crowdsourcing to create and sell HD Maps.
+- [Rethinking Maps for Self-Driving][medium_lyft_1] -- Medium post by [Lyft Level 5's][lyft] Engineering team, which details the industry approach to creating and scaling HD Maps (layering, semantic map making, etc).
 - [HD Maps for Self-Driving Cars][medium_x_2] -- Medium post
 
 #### State Estimation

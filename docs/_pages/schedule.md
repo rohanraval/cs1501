@@ -22,23 +22,32 @@ title:  "Schedule"
 - Tradeoffs
 - Sensor Fusion
 
-#### Week 3-4: Mapping and Localization
+#### Week 3: Mapping [[slides][lec3]]
+- What are Maps? Why Maps?
+- Types of Maps
+- Occupancy Grid Mapping
+- Reference Frames and Representations
 - HD Maps and Map Building
-    - Occupancy Grid Representation
     - Challenges of mapping the real world
+    - Lyft Level5 Case Study
+        - Mapping Principles and Goals
+        - Layered Mapping
+    - Storage and Retrieval, geometric considerations
 - Pose
     - What is Localization?
     - Representation of Pose, and Degrees of Freedom
-    - Challenges in getting accurate pose
-- State Estimation Algorithms
-    - Recursive Bayes and Predict-Update cycle
-    - Histogram Filter
-    - Kalman Filter
-    - Particle Filter
+- Dead Reckoning
+
+#### Week 4-5: Localization
+- Recursive Bayesian Filtering
+    - Predict-Update Cycle
+- Histogram Filter
+- Particle Filter
+- Kalman Filter intuition
 - SLAM (Simultaneous Localization and Mapping)
 - (if time) Iterative Closest Point (ICP) Algorithm
 
-#### Week 5-7: Motion Planning and Navigation
+#### Week 5-8: Motion Planning and Navigation
 - Intro to Graphs
 - Graph Search
     - Breadth-first Search (BFS)
@@ -62,7 +71,7 @@ title:  "Schedule"
     - Image Segmentation, Lane Finding, Vehicle and Pedestrian Detection
 - Prediction of other actors
 
-#### Week 9-10: Motion Control
+#### Week 10: Motion Control
 - Feedback: Open vs Closed-loop
 - PID Controller
 
@@ -98,3 +107,4 @@ _These weeks can be used as a buffer or to cover some extra material, chosen by 
 <!-- lectures -->
 [lec1]: https://github.com/rohanraval/cs1501/raw/master/lectures/1_intro.pdf
 [lec2]: https://github.com/rohanraval/cs1501/raw/master/lectures/2_sensors.pdf
+[lec3]: https://github.com/rohanraval/cs1501/raw/master/lectures/3_mapping.pdf
