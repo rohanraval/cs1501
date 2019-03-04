@@ -33,38 +33,49 @@ title:  "Schedule"
         - Mapping Principles and Goals
         - Layered Mapping
     - Storage and Retrieval, geometric considerations
-- Pose
-    - What is Localization?
-    - Representation of Pose, and Degrees of Freedom
+- Sneak peek into localization...
+
+#### Week 4: Localization I [[slides][lec4]]
+- What is Localization?
+  - Motivation and Definitions
+- How to Represent Localization
+    - Pose and Degrees of Freedom
+- Challenges of Localization
 - Dead Reckoning
-
-#### Week 4-5: Localization
-- Recursive Bayesian Filtering
-    - Predict-Update Cycle
+- Probabilistic Map-based Localization
 - Histogram Filter
-- Particle Filter
-- Kalman Filter intuition
-- SLAM (Simultaneous Localization and Mapping)
-- (if time) Iterative Closest Point (ICP) Algorithm
+- Predict-Update Cycle
 
-#### Week 5-8: Motion Planning and Navigation
+#### Week 5: Localization II [[slides][lec5]]
+- Histogram Filter Activity
+- Landmark-based Mapping for Localization Algorithms
+- Particle Filter (MCL)
+- Kalman Filter (briefly)
+- Summary of Localization Algorithms
+
+#### Week 6: SLAM, Motion Planning I [[slides][lec6]]
+- SLAM Motivation
+- Graph SLAM
+- Fast SLAM
+- Motion Planning Motivation
+  - General AI Search Problem
+- Cost Functions
+- Grassfire Algorithm
+
+#### Week 7-8: Motion Planning II and III
 - Intro to Graphs
 - Graph Search
     - Breadth-first Search (BFS)
     - Depth-first Search (DFS)
-    - Grassfire Algorithm
     - Dijkstra's Algorithm
     - A* Algorithm and Heuristics
-- Navigation as a Graph Search problem
 - Obstacle Avoidance and C-Space
-- Probabilistic Road Maps (PRM), briefly
-- Rapidly-exploring Random Trees (RRT), briefly
+- Probabilistic Road Maps (maybe)
+- Rapidly-exploring Random Trees (maybe)
 - Artificial Potential Fields
     - Gradient Descent and Local Minima
-- Real-world Motion Planning challenges
-    - Occlusions, Speed Regressions, Unprotected Turns, etc
 
-#### Week 8-9: Perception and Prediction
+#### Week 9: Perception
 - Basic intro to Deep Learning and Neural Networks
 - Basic Computer Vision and Visual Odometry
 - Common Classification Problems
@@ -107,4 +118,7 @@ _These weeks can be used as a buffer or to cover some extra material, chosen by 
 <!-- lectures -->
 [lec1]: https://github.com/rohanraval/cs1501/raw/master/lectures/1_intro.pdf
 [lec2]: https://github.com/rohanraval/cs1501/raw/master/lectures/2_sensors.pdf
-[lec3]: https://github.com/rohanraval/cs1501/raw/master/lectures/3_mapping.pdf
+[lec3]: https://github.com/rohanraval/cs1501/raw/master/lectures/3_mapping_localization0.pdf
+[lec4]: https://github.com/rohanraval/cs1501/raw/master/lectures/4_localization1.pdf
+[lec5]: https://github.com/rohanraval/cs1501/raw/master/lectures/5_localization2.pdf
+[lec6]: https://github.com/rohanraval/cs1501/raw/master/lectures/6_slam_planning1.pdf
