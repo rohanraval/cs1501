@@ -62,29 +62,31 @@ title:  "Schedule"
 - Cost Functions
 - Grassfire Algorithm
 
-#### Week 7-8: Motion Planning II and III
+#### Week 7: Motion Planning II [[slides][lec7]]
+- Recap of Grassfire Algorithm
 - Intro to Graphs
-- Graph Search
-    - Breadth-first Search (BFS)
-    - Depth-first Search (DFS)
-    - Dijkstra's Algorithm
-    - A* Algorithm and Heuristics
-- Obstacle Avoidance and C-Space
-- Probabilistic Road Maps (maybe)
-- Rapidly-exploring Random Trees (maybe)
+- Depth-First Search (DFS)
+- Breadth-First Search (BFS)
+- Dijkstra's Algorithm
+
+#### Week 8: Motion Planning III [[slides][lec8]]
+- Motivation for Search Heuristics
+- Greedy Heuristic Algorithm
+- A* Algorithm
+- Comparing Graph Search Algorithms
 - Artificial Potential Fields
     - Gradient Descent and Local Minima
 
-#### Week 9: Perception
+#### Week 9: Motion Control
+- Feedback: Open vs Closed-loop
+- PID Controller
+
+#### Week 10: Perception
 - Basic intro to Deep Learning and Neural Networks
 - Basic Computer Vision and Visual Odometry
 - Common Classification Problems
     - Image Segmentation, Lane Finding, Vehicle and Pedestrian Detection
 - Prediction of other actors
-
-#### Week 10: Motion Control
-- Feedback: Open vs Closed-loop
-- PID Controller
 
 #### Week 11-13: TBD (based on student choice)
 _These weeks can be used as a buffer or to cover some extra material, chosen by students from the list below._
@@ -122,3 +124,5 @@ _These weeks can be used as a buffer or to cover some extra material, chosen by 
 [lec4]: https://github.com/rohanraval/cs1501/raw/master/lectures/4_localization1.pdf
 [lec5]: https://github.com/rohanraval/cs1501/raw/master/lectures/5_localization2.pdf
 [lec6]: https://github.com/rohanraval/cs1501/raw/master/lectures/6_slam_planning1.pdf
+[lec7]: https://github.com/rohanraval/cs1501/raw/master/lectures/7_planning2.pdf
+[lec8]: https://github.com/rohanraval/cs1501/raw/master/lectures/8_planning3.pdf
