@@ -278,7 +278,7 @@ defaults:
       layout: single
       author_profile: false
       sidebar:
-        - image: "/assets/images/logo_scaled.jpeg"
+        - image: "/assets/images/logo_updated2.jpeg"
         - text: "__CS 1501: Intro to Robotics__<br/> Autonomy, AI & Applications"
         - text: "__University of Virginia__<br/> Spring 2019"
         - text: "__Instructor__: Rohan Raval"

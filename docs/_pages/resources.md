@@ -21,6 +21,7 @@ Below is a list of articles, books, videos, podcasts, and other resources releva
 - [How Self-Driving Cars Work][medium_silver_3] -- Medium post (and Ted Talk) by [David Silver][silver], head of self-driving at [Udacity][udacity]
 - [Let’s Talk About Self-Driving Cars][medium_x_4] -- Medium post about general effects of autonomy in society
 - [The WIRED Guide to Self-Driving Cars][article_wired_1] -- article debriefing the self-driving car space for the layman
+- [Self-Driving Cars: State of the Art][video_mit_1] -- MIT Self-Driving Cars (6.S094) introductory lecture on what the progress of self-driving cars is today
 - [Automated Vehicle Terminology][article_pave_1] -- article introducing terminology
 
 #### History
@@ -42,6 +43,9 @@ Below is a list of articles, books, videos, podcasts, and other resources releva
 - [Autonocast: Oliver Cameron of Voyage][podcast_autonocast_2] -- podcast interviewing [Oliver Cameron][cameron] (CEO of [Voyage][voyage]). Voyage develops robotaxis for retirement communities in Florida.
 - [Smarter Cars: Applied Intuition][podcast_smarter_1] -- podcast interviewing [Qasar Younis][qasar] (CEO of [Applied Intution][applied_intuition]) about Simulation Software for Autonomous Cars
 - [MIT AI: Kyle Vogt, Cruise Automation][podcast_mit_1] -- podcast/video interviewing [Kyle Vogt][vogt] (CEO of [Cruise][cruise]). Kyle previously cofounded Twitch and participated in the DARPA Challenge. Cruise was recently acquired by GM.
+- [a16z: Capitalizing on an Autonomous Vehicle Future][podcast_a16z_3] -- podcast with [Qasar Younis][qasar] and Peter Ludwig (CEO and CTO of [Applied Intution][applied_intuition]) explaining the autonomy industry and future outlook
+- [Venture Stories: The Present and Future of Autonomous Vehicles][podcast_vs_1] -- podcast with [Qasar Younis][qasar] (CEO of [Applied Intution][applied_intuition]) and [Alexandr Wang][wang] (CEO of [Scale.ai][scale]) discuss the AV development process, AV startups, and how their companies are solving a piece of the puzzle
+- [Aurora’s Approach to Development][blog_aurora_1] -- Medium article by [Aurora][aurora] detailing their engineering strategy; provides good insights into a leading AV company's development process
 
 #### Drones and Unmanned Aerial Vehicles (UAVs)
 
@@ -85,6 +89,25 @@ Below is a list of articles, books, videos, podcasts, and other resources releva
 
 ### Motion Planning
 
+#### Basics of Graphs and Graph Search
+- [Going Broad In A Graph: BFS Traversal][blog_bfs_1] -- blog post explaining BFS with visuals
+- [Deep Dive Through A Graph: DFS Traversal][blog_dfs_1] -- blog pose explaining DFS with visuals
+- [Finding The Shortest Path, With A Little Help From Dijkstra][blog_dijkstras_1] -- blog post explaining Dijkstra's with visuals
+- [Dijkstra's Algorithm - Computerphile][video_dijkstras_1] -- great video explaining Dijkstra's with an example
+- there are a ton of other resources on Google about these topics, they are very standard...
+
+#### A* Search
+- [Informed Search][video_berkeley_1] -- UC Berkeley CS188 lecture on A* search
+- [A* (A Star) Search Algorithm - Computerphile][video_astar_1] -- awesome video explaining A* using an example, with comparisons to Dijkstra's
+- [Introduction to the A* algorithm][blog_astar_1] -- interactive and beginner-friendly article about A*
+- [Heuristics][blog_astar_2] -- article about heuristics for A*
+
+#### Advanced Algorithms
+- [Constructing Artificial Potential Fields][video_apf_1] -- UPenn Robotics lecture on Artificial Potential Fields, with examples
+
+#### Applications
+- [A* in Action - Artificial Intelligence for Robotics][video_astar_2] -- clip of A* running in a simulation from Udacity
+
 ---
 
 ### Motion Control
@@ -93,7 +116,7 @@ Below is a list of articles, books, videos, podcasts, and other resources releva
 
 ---
 
-### Perception and Prediction
+### Perception
 
 ---
 
@@ -174,6 +197,8 @@ Below is a list of articles, books, videos, podcasts, and other resources releva
 [lvl5ai]: https://lvl5.ai/
 [rinaudo]: https://www.crunchbase.com/person/keller-rinaudo
 [zipline]: https://en.wikipedia.org/wiki/Zipline_International
+[wang]:https://www.crunchbase.com/person/alexandr-wang-2
+[scale]: https://scale.ai/
 
 
 <!-- Primary References -->
@@ -237,3 +262,17 @@ Below is a list of articles, books, videos, podcasts, and other resources releva
 [ted_zipline_1]: https://www.youtube.com/watch?v=qzEx8PqWUQg
 [ted_zipline_2]: https://www.ted.com/talks/keller_rinaudo_how_we_re_using_drones_to_deliver_blood_and_save_lives
 [video_hank_1]: https://www.youtube.com/watch?v=uoC2ZGRI8a8
+[video_berkeley_1]: https://youtu.be/ka5KpaKDGF0?t=303
+[blog_astar_1]: https://www.redblobgames.com/pathfinding/a-star/introduction.html
+[blog_astar_2]: http://theory.stanford.edu/~amitp/GameProgramming/Heuristics.html
+[video_mit_1]: https://www.youtube.com/watch?v=sRxaMDDMWQQ
+[blog_bfs_1]: https://medium.com/basecs/going-broad-in-a-graph-bfs-traversal-959bd1a09255
+[blog_dfs_1]: https://medium.com/basecs/deep-dive-through-a-graph-dfs-traversal-8177df5d0f13
+[blog_dijkstras_1]: https://medium.com/basecs/finding-the-shortest-path-with-a-little-help-from-dijkstra-613149fbdc8e
+[video_apf_1]: https://www.coursera.org/lecture/robotics-motion-planning/4-1-constructing-artificial-potential-fields-J9sC0
+[video_astar_1]: https://youtu.be/ySN5Wnu88nE
+[video_dijkstras_1]: https://youtu.be/GazC3A4OQTE
+[video_astar_2]: https://youtu.be/qXZt-B7iUyw
+[blog_aurora_1]: https://medium.com/aurora-blog/auroras-approach-to-development-5e42fec2ee4b
+[podcast_a16z_3]: https://a16z.com/2019/02/23/autonomous-vehicles-state-of-autonomy-2019-mobile-commodity-capitalism/
+[podcast_vs_1]: https://soundcloud.com/venturestories/the-present-and-future-of
