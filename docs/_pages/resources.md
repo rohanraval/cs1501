@@ -111,6 +111,23 @@ Below is a list of articles, books, videos, podcasts, and other resources releva
 ---
 
 ### Motion Control
+  
+#### Basics of Control Theory
+- [Control Systems Lectures - Closed Loop Control][video_control_1] -- graphic video on why closed-loop feedback control is beneficial over open-loop controllers
+- [Matlab: Understanding Control Systems][video_controlseries_1] -- great series of videos on the basics of control theory. The most relevant videos are as follows:
+  - [Part 1: Open-Loop Control Systems][video_controlseries_1_1]
+  - [Part 2: Feedback Control Systems][video_controlseries_1_2]
+  - [Part 3: Components of a Feedback Control System][video_controlseries_1_3]
+
+#### PID Control and its Applications
+- [PID Control - A brief introduction][video_pid_1] -- really great short video explaining the basics of control theory and PID in an inutitive and visual way
+- [Controlling Self Driving Cars][video_pid_3] -- awesome video running PID on a small car and showing how PID terms work
+- [Simple Examples of PID Control][video_pid_2] -- video running through some drawn-out examples demonstrating the usefulness of each of the P, I and D terms
+- [What is PID Control?][video_pidseries_1_1] -- great explanation of PID by following a motivating example
+  - The above video is part of the [Matlab: Understanding PID Control Series][video_pidseries_1], which is worth checking out as well
+- [PID Control - Udacity Self-Driving Car Engineer Nanodegree Project][video_pidexample_1] -- really cool video showing a PID controller running on an autonomous car simulation, explores how different components of the PID influence the car's behavior
+
+#### Other Applications
 - [Raffaello D'Andrea: The Astounding Athletic Power of Quadcopters][video_dandrea_1] -- Ted Talk by [Raffaello D'Andrea][dandrea]
 - [End to End Learning for Self-Driving Cars][paper_nvidia_1] -- NVIDIA (paper)
 
@@ -276,3 +293,14 @@ Below is a list of articles, books, videos, podcasts, and other resources releva
 [blog_aurora_1]: https://medium.com/aurora-blog/auroras-approach-to-development-5e42fec2ee4b
 [podcast_a16z_3]: https://a16z.com/2019/02/23/autonomous-vehicles-state-of-autonomy-2019-mobile-commodity-capitalism/
 [podcast_vs_1]: https://soundcloud.com/venturestories/the-present-and-future-of
+[video_pid_1]: https://www.youtube.com/watch?v=UR0hOmjaHp0
+[video_pid_2]: https://www.youtube.com/watch?v=XfAt6hNV8XM
+[video_pidexample_1]: https://www.youtube.com/watch?v=GJNoVgHcSCw
+[video_control_1]: https://www.youtube.com/watch?v=O-OqgFE9SD4
+[video_pidseries_1]: https://www.youtube.com/playlist?list=PLn8PRpmsu08pQBgjxYFXSsODEF3Jqmm-y
+[video_pidseries_1_1]: https://youtu.be/wkfEZmsQqiA
+[video_pid_3]: https://youtu.be/4Y7zG48uHRo
+[video_controlseries_1]: https://www.youtube.com/playlist?list=PLn8PRpmsu08q8CE0pbZ-cSrMm_WYJfVGd
+[video_controlseries_1_1]: https://youtu.be/FurC2unHeXI
+[video_controlseries_1_2]: https://youtu.be/5NVjIIi9fkY
+[video_controlseries_1_3]: https://youtu.be/u1pgaJHiiew

@@ -77,11 +77,21 @@ title:  "Schedule"
 - Artificial Potential Fields
     - Gradient Descent and Local Minima
 
-#### Week 9: Motion Control
-- Feedback: Open vs Closed-loop
+#### Week 9: Motion Control [[slides][lec9]]
+- Motivation for Control
+- Open-loop Control
+- Closed-loop (Feedback) Control
+- Control Theory
+  - Objectives and Building Blocks
+  - Control Signal
+  - Example: Cruise Control
+- Bang-Bang Controller
+- P-Controller
 - PID Controller
+- Parameter Optimization (Tuning)
 
 #### Week 10: Perception
+- Recap of Motion Control and PID
 - Basic intro to Deep Learning and Neural Networks
 - Basic Computer Vision and Visual Odometry
 - Common Classification Problems
@@ -126,3 +136,4 @@ _These weeks can be used as a buffer or to cover some extra material, chosen by 
 [lec6]: https://github.com/rohanraval/cs1501/raw/master/lectures/6_slam_planning1.pdf
 [lec7]: https://github.com/rohanraval/cs1501/raw/master/lectures/7_planning2.pdf
 [lec8]: https://github.com/rohanraval/cs1501/raw/master/lectures/8_planning3.pdf
+[lec9]: https://github.com/rohanraval/cs1501/raw/master/lectures/9_control.pdf
