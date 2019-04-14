@@ -90,13 +90,13 @@ title:  "Schedule"
 - PID Controller
 - Parameter Optimization (Tuning)
 
-#### Week 10: Perception
+#### Week 10: Motion Control II, Perception [[slides][lec10]]
 - Recap of Motion Control and PID
-- Basic intro to Deep Learning and Neural Networks
-- Basic Computer Vision and Visual Odometry
-- Common Classification Problems
-    - Image Segmentation, Lane Finding, Vehicle and Pedestrian Detection
-- Prediction of other actors
+- What do the P, I and D terms mean?... Examples
+- PID coding exercise
+- What is Perception?
+- Why Perception?
+- Basic Computer Vision
 
 #### Week 11-13: TBD (based on student choice)
 _These weeks can be used as a buffer or to cover some extra material, chosen by students from the list below._
@@ -137,3 +137,4 @@ _These weeks can be used as a buffer or to cover some extra material, chosen by 
 [lec7]: https://github.com/rohanraval/cs1501/raw/master/lectures/7_planning2.pdf
 [lec8]: https://github.com/rohanraval/cs1501/raw/master/lectures/8_planning3.pdf
 [lec9]: https://github.com/rohanraval/cs1501/raw/master/lectures/9_control.pdf
+[lec10]: https://github.com/rohanraval/cs1501/raw/master/lectures/10_control2_perception.pdf
