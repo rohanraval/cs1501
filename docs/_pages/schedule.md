@@ -96,10 +96,31 @@ title:  "Schedule"
 - PID coding exercise
 - What is Perception?
 - Why Perception?
-- Basic Computer Vision
+- Basics of Computer Vision
 
-#### Week 11-13: TBD (based on student choice)
-_These weeks can be used as a buffer or to cover some extra material, chosen by students from the list below._
+#### Week 11: What Next? [[slides][lec11]]
+- Highlights of Important Topics
+- Exciting Real-World Applications
+  - Self-driving Cars
+    - Big Tech Companies
+    - Automakers
+    - Tech Startups (Vertical + Horizontal)
+  - Self-driving Trucks
+  - Delivery Robots
+  - Aerial Robots
+- Where is all the innovation happening?
+- What does the future hold?
+  - Big Questions to tackle!
+- What more to learn?
+  - Programming Languages
+  - Frameworks and Tools
+- How to Learn
+
+#### Week 12: Guest Lecture -- Prof Nicola Bezzo, UVa Autonomous Mobile Robots Lab
+
+#### Week 13: Guest Lecture -- Michael Fleming, CEO Torc Robotics
+
+#### Other Topics (not covered)
 - Software Engineering for Robotics
     - Intro to ROS
     - Relevant Languages, Libraries, and Packages
@@ -125,7 +146,6 @@ _These weeks can be used as a buffer or to cover some extra material, chosen by 
 - Connected Autonomous Vehicles
     - V2V and V2I (V2X)
     - Communication protocols and infrastructure
-- More options TBD
 
 <!-- lectures -->
 [lec1]: https://github.com/rohanraval/cs1501/raw/master/lectures/1_intro.pdf
@@ -138,3 +158,4 @@ _These weeks can be used as a buffer or to cover some extra material, chosen by 
 [lec8]: https://github.com/rohanraval/cs1501/raw/master/lectures/8_planning3.pdf
 [lec9]: https://github.com/rohanraval/cs1501/raw/master/lectures/9_control.pdf
 [lec10]: https://github.com/rohanraval/cs1501/raw/master/lectures/10_control2_perception.pdf
+[lec11]: https://github.com/rohanraval/cs1501/raw/master/lectures/11_the_last_lecture.pdf

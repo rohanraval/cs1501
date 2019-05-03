@@ -41,11 +41,13 @@ Below is a list of articles, books, videos, podcasts, and other resources releva
 - [Greylock Ventures: Safely Scaling Autonomous Vehicles][podcast_greymatter_1] -- podcast interviewing [Chris Urmson][urmson] (CEO of [Aurora][aurora]), [Reid Hoffman][hoffman] (Cofounder of LinkedIn), and [Stefan Heck][heck] (CEO of [Nauto][nauto]) about how to scale autonomy tech.
 - [Autonocast: On Aurora Island][podcast_autonocast_1] -- podcast about [Aurora][aurora]. Aurora is one of the most closely-watched companies in the space right now. They're still in stealth mode and led by a phenomenal [team][aurora_team].
 - [Autonocast: Oliver Cameron of Voyage][podcast_autonocast_2] -- podcast interviewing [Oliver Cameron][cameron] (CEO of [Voyage][voyage]). Voyage develops robotaxis for retirement communities in Florida.
+- [MIT Self Driving Cars: Oliver Cameron][video_mit_1] -- guest lecture by [Oliver Cameron][cameron] (CEO of [Voyage][voyage]). Voyage develops robotaxis for retirement communities in Florida.
 - [Smarter Cars: Applied Intuition][podcast_smarter_1] -- podcast interviewing [Qasar Younis][qasar] (CEO of [Applied Intution][applied_intuition]) about Simulation Software for Autonomous Cars
 - [MIT AI: Kyle Vogt, Cruise Automation][podcast_mit_1] -- podcast/video interviewing [Kyle Vogt][vogt] (CEO of [Cruise][cruise]). Kyle previously cofounded Twitch and participated in the DARPA Challenge. Cruise was recently acquired by GM.
 - [a16z: Capitalizing on an Autonomous Vehicle Future][podcast_a16z_3] -- podcast with [Qasar Younis][qasar] and Peter Ludwig (CEO and CTO of [Applied Intution][applied_intuition]) explaining the autonomy industry and future outlook
 - [Venture Stories: The Present and Future of Autonomous Vehicles][podcast_vs_1] -- podcast with [Qasar Younis][qasar] (CEO of [Applied Intution][applied_intuition]) and [Alexandr Wang][wang] (CEO of [Scale.ai][scale]) discuss the AV development process, AV startups, and how their companies are solving a piece of the puzzle
 - [Aurora’s Approach to Development][blog_aurora_1] -- Medium article by [Aurora][aurora] detailing their engineering strategy; provides good insights into a leading AV company's development process
+- [Super Hacker George Hotz: I Can Make Your Car Drive Itself for Under $1,000][video_hotz_1] -- interview with George Hotz, reknowned "hacker" and founder of Comma.ai, an open-source approach to self-driving
 
 #### Drones and Unmanned Aerial Vehicles (UAVs)
 
@@ -177,9 +179,9 @@ Below is a list of articles, books, videos, podcasts, and other resources releva
 
 ### Career Resources
 
-- [Twitter][twitter_list]
-    - Twitter is a great place for learning about what's happening in industry. When they are not busy tweeting about politics, a lot of tech people also like to tweet opinions, analyses, announcements, and even have intellectual debates about develpments in the space. Not only is Twitter a great way to stay updated and immersed in the field, it is also a fantastic opportunity to _interact_ with the community and reach out to others in the space. Many of the people involved in projects (founders, developers, investors, media, enthusiasts, etc) have their DMs open and are receptive if you reach out (and they also sometimes tweet out ways you could get involved with their projects). I really cannot emphasize enough how undervalued Twitter is for professional development in tech. To that end I've curated the above Twitter List of relevant accounts to get you started!
 - [How to Land an Autonomous Vehicle Job][medium_silver_2] -- Medium post by [David Silver][silver]
+- [Twitter][twitter_list]
+    - Twitter is a great place for learning about what's happening in industry. A lot of tech people like to tweet opinions, analyses, announcements, and even have intellectual debates about develpments in the space. Not only is Twitter a great way to stay updated and immersed in the field, it is also a fantastic opportunity to _interact_ with the community and reach out to others in the space. Many of the people involved in projects (founders, developers, investors, media, enthusiasts, etc) have their DMs open and are receptive if you reach out (and they also sometimes tweet out ways you could get involved with their projects). __I really cannot emphasize enough how undervalued Twitter is__ for professional development in tech. To that end I've curated the above _Twitter List_ of relevant accounts to get you started!
 
 <!-- Non-primary references -->
 [cameron]: https://www.crunchbase.com/person/oliver-cameron
@@ -304,3 +306,5 @@ Below is a list of articles, books, videos, podcasts, and other resources releva
 [video_controlseries_1_1]: https://youtu.be/FurC2unHeXI
 [video_controlseries_1_2]: https://youtu.be/5NVjIIi9fkY
 [video_controlseries_1_3]: https://youtu.be/u1pgaJHiiew
+[video_hotz_1]: https://youtu.be/aqdYbwY9vPU
+[video_mit_1]: https://www.youtube.com/watch?v=-j0tc0Y1CIE
