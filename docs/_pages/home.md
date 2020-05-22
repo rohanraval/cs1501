@@ -4,7 +4,7 @@ permalink: "/"
 #title:  "Course Description"
 ---
 
-<style> h1 { padding-bottom: 0.5em; border-bottom: 1px solid $border-color; }</style>
+<!-- <style> h1 { padding-bottom: 0.5em; border-bottom: 1px solid $border-color; }</style> -->
 
 
 # **Course Description**
