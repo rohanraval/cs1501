@@ -284,4 +284,4 @@ defaults:
         - text: "__Instructor__: Rohan Raval"
         - text: "__Meeting__: Mon 1pm, MEC 213"
         
-theme: jekyll-theme-minimal
+# theme: jekyll-theme-minimal
